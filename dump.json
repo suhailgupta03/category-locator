@@ -1,0 +1,4724 @@
+﻿{
+  "data": [
+    {
+      "tag_name": "(صحيفة الع )Alarab",
+      "keywords": "[alarab.qa]"
+    },
+    {
+      "tag_name": "10 Region",
+      "keywords": "[10region.ru]"
+    },
+    {
+      "tag_name": "108Jakarta",
+      "keywords": "[108jakarta.com]"
+    },
+    {
+      "tag_name": "12NewsNow",
+      "keywords": "[12newsnow.com]"
+    },
+    {
+      "tag_name": 1815,
+      "keywords": "[1815.ch]"
+    },
+    {
+      "tag_name": "20 Minuten",
+      "keywords": "[20min.ch]"
+    },
+    {
+      "tag_name": "24 Heure",
+      "keywords": "[24heures.ch]"
+    },
+    {
+      "tag_name": "24h",
+      "keywords": "[24h.com.vn]"
+    },
+    {
+      "tag_name": "3ders",
+      "keywords": "[3ders.org, facebook.com/3dersorg, twitter.com/3dersorg]"
+    },
+    {
+      "tag_name": "4-Traders",
+      "keywords": "[4-traders.com, facebook.com/fortraders, twitter.com/ForTraders]"
+    },
+    {
+      "tag_name": "4ZZZ",
+      "keywords": "[4zzzfm.org.au]"
+    },
+    {
+      "tag_name": "65 Degrees North",
+      "keywords": "[65degreesnorth.com]"
+    },
+    {
+      "tag_name": "7DAYS",
+      "keywords": "[7days.ae]"
+    },
+    {
+      "tag_name": "7days",
+      "keywords": "[7days.ae]"
+    },
+    {
+      "tag_name": "ABC News",
+      "keywords": "[abcnews.go.com]"
+    },
+    {
+      "tag_name": "ABS-CBN",
+      "keywords": "[abs-cbnnews.com]"
+    },
+    {
+      "tag_name": "ACTUALITÉS SUISSE",
+      "keywords": "[1actualites.ch]"
+    },
+    {
+      "tag_name": "ADWEEK",
+      "keywords": "[adweek.com]"
+    },
+    {
+      "tag_name": "AIF",
+      "keywords": "[aif.ru]"
+    },
+    {
+      "tag_name": "ANN Asia News Network",
+      "keywords": "[facebook.com/291155398585, twitter.com/asianewsnetwork]"
+    },
+    {
+      "tag_name": "ANSA",
+      "keywords": "[ansa.it]"
+    },
+    {
+      "tag_name": "AOL",
+      "keywords": "[aol.com]"
+    },
+    {
+      "tag_name": "ARI",
+      "keywords": "[ari.ru]"
+    },
+    {
+      "tag_name": "ASEAN Secretariat",
+      "keywords": "[facebook.com/aseansecretariat, instagram.com/asean, twitter.com/ASEAN, youtube.com/user/theaseansecretariat]"
+    },
+    {
+      "tag_name": "Abante",
+      "keywords": "[abante.com.ph]"
+    },
+    {
+      "tag_name": "Abendzeitung",
+      "keywords": "[abendzeitung-muenchen.de]"
+    },
+    {
+      "tag_name": "Accomnews",
+      "keywords": "[accomnews.com.au]"
+    },
+    {
+      "tag_name": "Accomondation Times",
+      "keywords": "[accommodationtimes.com]"
+    },
+    {
+      "tag_name": "Accord Fintech",
+      "keywords": "[accordfintech.com]"
+    },
+    {
+      "tag_name": "Active Travel Magazine",
+      "keywords": "[activetravelmagazines.com]"
+    },
+    {
+      "tag_name": "AdGully",
+      "keywords": "[adgully.com]"
+    },
+    {
+      "tag_name": "AdvertisingAge",
+      "keywords": "[adage.com]"
+    },
+    {
+      "tag_name": "Afaqs",
+      "keywords": "[afaqs.com]"
+    },
+    {
+      "tag_name": "Afloat",
+      "keywords": "[afloat.ie, facebook.com/AfloatMagazine, twitter.com/Afloatmagazine, youtube.com/channel/UCrMEqZtov6qO-kVPCtqrTyw]"
+    },
+    {
+      "tag_name": "Afternoon Voice",
+      "keywords": "[afternoonvoice.com]"
+    },
+    {
+      "tag_name": "Aftonbladet",
+      "keywords": "[aftonbladet.se]"
+    },
+    {
+      "tag_name": "Agence France Presse",
+      "keywords": "[afp.com, facebook.com/AFPfra, instagram.com/afpphoto, twitter.com/AFPFR, youtube.com/user/afpfr]"
+    },
+    {
+      "tag_name": "Agencyfaqs",
+      "keywords": "[agencyfaqs.com]"
+    },
+    {
+      "tag_name": "Agrimoney",
+      "keywords": "[agrimoney.com]"
+    },
+    {
+      "tag_name": "Ahmedabad Mirror",
+      "keywords": "[ahmedabadmirror.com]"
+    },
+    {
+      "tag_name": "Air Transport World",
+      "keywords": "[atwonline.com, facebook.com/AirTransportWorld, twitter.com/ATWOnline, youtube.com/user/atwonline]"
+    },
+    {
+      "tag_name": "AirCargo World",
+      "keywords": "[aircargoworld.com, twitter.com/acwmagazine, youtube.com/channel/UCtBpjkumprLT48eeX6x7r5Q/feed]"
+	},
+	{
+      "tag_name": "Bazukaa",
+      "keywords": "[aircargoworld.com]"
+    },
+    {
+      "tag_name": "AirForce Monthly",
+      "keywords": "[airforcesmonthly.com, facebook.com/AirForcesMonthly, twitter.com/AFMonthly]"
+    },
+    {
+      "tag_name": "Aircargo Week",
+      "keywords": "[aircargoweek.com, facebook.com/AirCargoWeek, twitter.com/aircargoweek]"
+    },
+    {
+      "tag_name": "Aircraft Commerce",
+      "keywords": "[aircraft-commerce.com, twitter.com/AircraftCommrce]"
+    },
+    {
+      "tag_name": "Aircraft Interiors International",
+      "keywords": "[aircraftinteriorsinternational.com]"
+    },
+    {
+      "tag_name": "Aircraft Value News",
+      "keywords": "[aircraftvaluenews.com]"
+    },
+    {
+      "tag_name": "Al Bayan Newspaper (صحيفة البيان)",
+      "keywords": "[albayan.ae]"
+    },
+    {
+      "tag_name": "Al Jazeera",
+      "keywords": "[aljazeera.com, facebook.com/aljazeera, twitter.com/ajenglish, youtube.com/user/AlJazeeraEnglish]"
+    },
+    {
+      "tag_name": "Al Raya (الراية )",
+      "keywords": "[raya.com]"
+    },
+    {
+      "tag_name": "Al-Atheer",
+      "keywords": "[al-atheer.com.my]"
+    },
+    {
+      "tag_name": "Alabama Political Reporter",
+      "keywords": "[al-political-reporter.com, alreporter.com]"
+    },
+    {
+      "tag_name": "Aliran",
+      "keywords": "[aliran.com]"
+    },
+    {
+      "tag_name": "Alive",
+      "keywords": "[delhipress.in]"
+    },
+    {
+      "tag_name": "All Singapore Stuff",
+      "keywords": "[allsingaporestuff.com, facebook.com/allsgstuff, twitter.com/allsgstuff, youtube.com/user/AllSingaporeStuff]"
+    },
+    {
+      "tag_name": "Andaman Chronicle",
+      "keywords": "[andamanchronicle.net]"
+    },
+    {
+      "tag_name": "Android Authority",
+      "keywords": "[androidauthority.com]"
+    },
+    {
+      "tag_name": "Android Headlines",
+      "keywords": "[androidheadlines.com]"
+    },
+    {
+      "tag_name": "Angel Commodities & Currencies Research",
+      "keywords": "[angelcommodities.com]"
+    },
+    {
+      "tag_name": "AnimationXpress",
+      "keywords": "[animationxpress.com]"
+    },
+    {
+      "tag_name": "AnimationXpress.com",
+      "keywords": "[animationxpress.com]"
+    },
+    {
+      "tag_name": "Antaranews",
+      "keywords": "[antaranews.com]"
+    },
+    {
+      "tag_name": "Apple Daily",
+      "keywords": "[appledaily.com.tw, facebook.com/appledaily.tw, twitter.com/TW_nextmedia, youtube.com/user/twappledaily]"
+    },
+    {
+      "tag_name": "Armada International",
+      "keywords": "[armadainternational.com, facebook.com/armadainternational, twitter.com/arm_magazine]"
+    },
+    {
+      "tag_name": "Armenian Express",
+      "keywords": "[express.am]"
+    },
+    {
+      "tag_name": "Asahi",
+      "keywords": "[asahi.com]"
+    },
+    {
+      "tag_name": "Asean Affairs",
+      "keywords": "[aseanaffairs.com, facebook.com/121130747898500, twitter.com/AseanAffairs]"
+    },
+    {
+      "tag_name": "Asia - Pacific Journal of Operational Research",
+      "keywords": "[worldscientific.com]"
+    },
+    {
+      "tag_name": "Asia Property Report",
+      "keywords": "[facebook.com/AsiaPropertyReport, property-report.com]"
+    },
+    {
+      "tag_name": "Asia Report",
+      "keywords": "[stasiareport.com]"
+    },
+    {
+      "tag_name": "Asia Times",
+      "keywords": "[atimes.com]"
+    },
+    {
+      "tag_name": "Asia Today",
+      "keywords": "[asiatoday.com]"
+    },
+    {
+      "tag_name": "Asia-Pacific Defence Reporter",
+      "keywords": "[asiapacificdefencereporter.com, facebook.com/asiapacificdefencereporter, twitter.com/APDR_APAC]"
+    },
+    {
+      "tag_name": "AsiaOne",
+      "keywords": "[asiaone.com]"
+    },
+    {
+      "tag_name": "Asian Age",
+      "keywords": "[asianage.com]"
+    },
+    {
+      "tag_name": "Asian Banking & Finance",
+      "keywords": "[asianbankingandfinance.net]"
+    },
+    {
+      "tag_name": "Asian Correspondent",
+      "keywords": "[asiancorrespondent.com]"
+    },
+    {
+      "tag_name": "Asian Defence Journal",
+      "keywords": "[adj.com.my]"
+    },
+    {
+      "tag_name": "Asian Economies",
+      "keywords": "[asiae.co.kr]"
+    },
+    {
+      "tag_name": "Asian Hospital & Healthcare Management",
+      "keywords": "[asianhhm.com]"
+    },
+    {
+      "tag_name": "Asian Hospital and Healthcare Management",
+      "keywords": "[asianhhm.com]"
+    },
+    {
+      "tag_name": "Asian News International",
+      "keywords": "[aniin.com]"
+    },
+    {
+      "tag_name": "Asian Power",
+      "keywords": "[asian-power.com]"
+    },
+    {
+      "tag_name": "Asian Scientist",
+      "keywords": "[asianscientist.com]"
+    },
+    {
+      "tag_name": "Asian Venture Philanthropy Network",
+      "keywords": "[avpn.asia]"
+    },
+    {
+      "tag_name": "Asianet India",
+      "keywords": "[asianetindia.com]"
+    },
+    {
+      "tag_name": "AssamTimes",
+      "keywords": "[assamtimes.org]"
+    },
+    {
+      "tag_name": "Assocham India",
+      "keywords": "[assocham.org]"
+    },
+    {
+      "tag_name": "Astro AWANI",
+      "keywords": "[english.astroawani.com]"
+    },
+    {
+      "tag_name": "Australia Ageing Agenda",
+      "keywords": "[australianageingagenda.com.au]"
+    },
+    {
+      "tag_name": "Australian Broadcasting Corporation (ABC)",
+      "keywords": "[abc.net.au, facebook.com/abc, twitter.com/abcaustralia, youtube.com/user/abcaustralia]"
+    },
+    {
+      "tag_name": "Australian Doctor",
+      "keywords": "[australiandoctor.com.au]"
+    },
+    {
+      "tag_name": "Australian Flying",
+      "keywords": "[australianflying.com.au, facebook.com/AustralianFlying, twitter.com/OzFlying]"
+    },
+    {
+      "tag_name": "Australian Macworld",
+      "keywords": "[macworld.com.au]"
+    },
+    {
+      "tag_name": "Australianpolitics",
+      "keywords": "[australianpolitics.com]"
+    },
+    {
+      "tag_name": "AutoBuzz",
+      "keywords": "[autobuzz.my]"
+    },
+    {
+      "tag_name": "Autocar",
+      "keywords": "[autocar.co.uk]"
+    },
+    {
+      "tag_name": "Autocar India",
+      "keywords": "[autocarindia.com, facebook.com/autocarindiamag, instagram.com/autocar_india, youtube.com/user/autocarindia1]"
+    },
+    {
+      "tag_name": "Autocar Professional",
+      "keywords": "[autocarpro.in]"
+    },
+    {
+      "tag_name": "Automotive Products Finder",
+      "keywords": "[automotiveproductsfinder.com]"
+    },
+    {
+      "tag_name": "Autoweek",
+      "keywords": "[autoweek.com]"
+    },
+    {
+      "tag_name": "Aviation International News",
+      "keywords": "[ainonline.com, facebook.com/ainews, twitter.com/AINonline, youtube.com/user/aintvonline]"
+    },
+    {
+      "tag_name": "Aviation Maintenance",
+      "keywords": "[aviationtoday.com, facebook.com/avionicsmagazine, twitter.com/avionicsmag, youtube.com/channel/UCVPZSvlx-8JEriWezRBIeOQ]"
+    },
+    {
+      "tag_name": "Aviation Week & Space Technology",
+      "keywords": "[aviationweek.com, facebook.com/avweek, twitter.com/aviationweek, youtube.com/user/AviationWeek]"
+    },
+    {
+      "tag_name": "Avitrader",
+      "keywords": "[avitrader.com]"
+    },
+    {
+      "tag_name": "Awaz-e-haq",
+      "keywords": "[awaz-e-haq.com]"
+    },
+    {
+      "tag_name": "B&T",
+      "keywords": "[bandt.com.au]"
+    },
+    {
+      "tag_name": "BBC",
+      "keywords": "[bbci.co.uk, facebook.com/bbcnews, twitter.com/bbcnews, youtube.com/user/bbcnews]"
+    },
+    {
+      "tag_name": "BH Online",
+      "keywords": "[bharian.com.my]"
+    },
+    {
+      "tag_name": "BOLA.NET",
+      "keywords": "[bola.net]"
+    },
+    {
+      "tag_name": "BSE Company Announcements",
+      "keywords": "[bseindia.com]"
+    },
+    {
+      "tag_name": "BWCIO",
+      "keywords": "[bwcio.com]"
+    },
+    {
+      "tag_name": "Bali Post",
+      "keywords": "[balipost.com]"
+    },
+    {
+      "tag_name": "BangaloreMirror",
+      "keywords": "[bangaloremirror.indiatimes.com]"
+    },
+    {
+      "tag_name": "Bangka Pos",
+      "keywords": "[bangka.tribunnews.com]"
+    },
+    {
+      "tag_name": "Bangkok Post",
+      "keywords": "[bangkokpost.com, facebook.com/bangkokpost, twitter.com/BPasianews, twitter.com/BPculture, twitter.com/BPsportsnews, twitter.com/BPworldnews, twitter.com/bangkokpostnews]"
+    },
+    {
+      "tag_name": "Banjarmasin Post",
+      "keywords": "[banjarmasin.tribunnews.com]"
+    },
+    {
+      "tag_name": "Bank Indonesia",
+      "keywords": "[bi.go.id]"
+    },
+    {
+      "tag_name": "BankingFrontiers",
+      "keywords": "[bankingfrontiers.com]"
+    },
+    {
+      "tag_name": "Bankok Biz News",
+      "keywords": "[bangkokbiznews.com]"
+    },
+    {
+      "tag_name": "Baomoi",
+      "keywords": "[baomoi.com]"
+    },
+    {
+      "tag_name": "Bar & Bench",
+      "keywords": "[barandbench.com]"
+    },
+    {
+      "tag_name": "Barrons",
+      "keywords": "[barrons.com, facebook.com/barrons, twitter.com/barronsonline]"
+    },
+    {
+      "tag_name": "Bart International",
+      "keywords": "[bartintl.com, facebook.com/BARTIntl, instagram.com/bart_intl, twitter.com/BARTIntl]"
+    },
+    {
+      "tag_name": "Basael",
+      "keywords": "[bzbasel.ch]"
+    },
+    {
+      "tag_name": "Batam Pos",
+      "keywords": "[batampos.co.id]"
+    },
+    {
+      "tag_name": "Beartai",
+      "keywords": "[beartai.com]"
+    },
+    {
+      "tag_name": "Beijing Bulletin",
+      "keywords": "[beijingbulletin.com, facebook.com/beijingbulletin, twitter.com/beijingbulletin]"
+    },
+    {
+      "tag_name": "Beijing Today",
+      "keywords": "[beijingtoday.com.cn, facebook.com/beijingtoday, twitter.com/beijing_today, youtube.com/channel/UC4EjrE4JZaX-1H2KlWPyBrw]"
+    },
+    {
+      "tag_name": "Bengkulu Ekspress",
+      "keywords": "[bengkuluekspress.com]"
+    },
+    {
+      "tag_name": "Berita",
+      "keywords": "[beritasatu.com]"
+    },
+    {
+      "tag_name": "Berita Harian",
+      "keywords": "[bharian.com.my, facebook.com/bhonline, instagram.com/beritaharian, twitter.com/bharianmy, youtube.com/user/BHOnlineTV]"
+    },
+    {
+      "tag_name": "Berita Harian Singapore",
+      "keywords": "[beritaharian.sg]"
+    },
+    {
+      "tag_name": "Berita Jawa Timur",
+      "keywords": "[beritajatim.com]"
+    },
+    {
+      "tag_name": "Berita Kota Makassar",
+      "keywords": "[beritakotamakassar.com]"
+    },
+    {
+      "tag_name": "Berita News and Current Affairs",
+      "keywords": "[twice.com]"
+    },
+    {
+      "tag_name": "Bernama",
+      "keywords": "[bernama.com, princetoninfo.com]"
+    },
+    {
+      "tag_name": "Bernama Mandarin",
+      "keywords": "[mandarin.bernama.com]"
+    },
+    {
+      "tag_name": "Best Media Info",
+      "keywords": "[bestmediainfo.com]"
+    },
+    {
+      "tag_name": "Best Tech",
+      "keywords": "[besttechmagazine.com, facebook.com/besttechmagazinecom, twitter.com/BestTechMagazin]"
+    },
+    {
+      "tag_name": "Bihar Times",
+      "keywords": "[bihartimes.in]"
+    },
+    {
+      "tag_name": "Bike India",
+      "keywords": "[bikeindia.in]"
+    },
+    {
+      "tag_name": "Bild",
+      "keywords": "[bild.de]"
+    },
+    {
+      "tag_name": "Biospectrum Asia",
+      "keywords": "[biospectrumasia.com]"
+    },
+    {
+      "tag_name": "Bisnis",
+      "keywords": "[bisnis.com]"
+    },
+    {
+      "tag_name": "Bisnis Indonesia",
+      "keywords": "[en.bisnis.com]"
+    },
+    {
+      "tag_name": "Bisnis Indonesia Regional Timur",
+      "keywords": "[makassar.bisnis.com]"
+    },
+    {
+      "tag_name": "Bisnis Jateng",
+      "keywords": "[bisnis-jateng.com]"
+    },
+    {
+      "tag_name": "Biz Dailies",
+      "keywords": "[bizdailies.com]"
+    },
+    {
+      "tag_name": "BizTech2",
+      "keywords": "[biztech2.in.com]"
+    },
+    {
+      "tag_name": "Bizevents Asia",
+      "keywords": "[bizeventsasia.com]"
+    },
+    {
+      "tag_name": "Bizjet Advisor",
+      "keywords": "[bizjetadvisor.com, facebook.com/FuelThemes]"
+    },
+    {
+      "tag_name": "Black Voice News",
+      "keywords": "[blackvoicenews.com]"
+    },
+    {
+      "tag_name": "Blick",
+      "keywords": "[blick.ch]"
+    },
+    {
+      "tag_name": "Blooloop",
+      "keywords": "[blooloop.com]"
+    },
+    {
+      "tag_name": "Bloomberg",
+      "keywords": "[bloomberg.com, facebook.com/bloomberglp, instagram.com/bloomberg, twitter.com/bloomberg, youtube.com/user/Bloomberg]"
+    },
+    {
+      "tag_name": "BloombergQuint",
+      "keywords": "[bloombergquint.com]"
+    },
+    {
+      "tag_name": "Blouin Artinfo",
+      "keywords": "[blouinartinfo.com]"
+    },
+    {
+      "tag_name": "Bocho-Shinbun",
+      "keywords": "[bocho-shinbun.com]"
+    },
+    {
+      "tag_name": "Bollywood Country",
+      "keywords": "[bollywoodcountry.com]"
+    },
+    {
+      "tag_name": "Boom Live",
+      "keywords": "[boomlive.in]"
+    },
+    {
+      "tag_name": "BorneoPost Online",
+      "keywords": "[theborneopost.com]"
+    },
+    {
+      "tag_name": "Boston Herald",
+      "keywords": "[bostonherald.com]"
+    },
+    {
+      "tag_name": "Brahmand",
+      "keywords": "[brahmand.com]"
+    },
+    {
+      "tag_name": "Brand Buffet",
+      "keywords": "[brandbuffet.in.th]"
+    },
+    {
+      "tag_name": "Brandsynario",
+      "keywords": "[brandsynario.com]"
+    },
+    {
+      "tag_name": "Breaking Travel News",
+      "keywords": "[breakingtravelnews.com]"
+    },
+    {
+      "tag_name": "Brickwork Ratings",
+      "keywords": "[brickworkratings.com]"
+    },
+    {
+      "tag_name": "Brisbanetimes",
+      "keywords": "[brisbanetimes.com.au]"
+    },
+    {
+      "tag_name": "Broadcast & CableSat",
+      "keywords": "[broadcastandcablesat.co.in]"
+    },
+    {
+      "tag_name": "Bureaucracy Today",
+      "keywords": "[bureaucracytoday.com]"
+    },
+    {
+      "tag_name": "Burma Net",
+      "keywords": "[burmanet.org]"
+    },
+    {
+      "tag_name": "Burmese Hearts",
+      "keywords": "[burmesehearts.com]"
+    },
+    {
+      "tag_name": "Buset Online",
+      "keywords": "[buset-online.com]"
+    },
+    {
+      "tag_name": "Business Day",
+      "keywords": "[bday.net]"
+    },
+    {
+      "tag_name": "Business Insider",
+      "keywords": "[BusinessInsiderUK, businessinsider.co.id, businessinsider.com, businessinsider.com.au, businessinsider.in, businessinsider.my, facebook.com/businessinsider, twitter.com/BIUK, twitter.com/businessinsider]"
+    },
+    {
+      "tag_name": "Business Jet Interiors International",
+      "keywords": "[businessjetinteriorsinternational.com]"
+    },
+    {
+      "tag_name": "Business Jet Traveller",
+      "keywords": "[bjtonline.com, facebook.com/business.jet.traveler, twitter.com/bjtonline, youtube.com/channel/UC0-e8G6cFot717mpZPIbTNA]"
+    },
+    {
+      "tag_name": "Business Mirror",
+      "keywords": "[businessmirror.com.ph, facebook.com/BusinessMirror, instagram.com/bmsocialmedia, twitter.com/businessmirror]"
+    },
+    {
+      "tag_name": "Business NEws",
+      "keywords": "[businesxxl.com]"
+    },
+    {
+      "tag_name": "Business Standard",
+      "keywords": "[business-standard.com, facebook.com/bsindia, twitter.com/bsindia, youtube.com/user/BusinessStandardLtd]"
+    },
+    {
+      "tag_name": "Business Standard Motoring",
+      "keywords": "[bsmotoring.com]"
+    },
+    {
+      "tag_name": "Business Times",
+      "keywords": "[businesstimes.com.sg, facebook.com/thebusinesstimes, instagram.com/btlifestyle/, youtube.com/channel/UC0GP1HDhGZTLih7B89z_cTg]"
+    },
+    {
+      "tag_name": "Business Today",
+      "keywords": "[businesstoday.in]"
+    },
+    {
+      "tag_name": "Business Week",
+      "keywords": "[businessweekly.com.tw, facebook.com/bwnet.fans, youtube.com/user/bwnet]"
+    },
+    {
+      "tag_name": "Business Wire",
+      "keywords": "[businesswire.com, twitter.com/businesswire]"
+    },
+    {
+      "tag_name": "Business Wire India",
+      "keywords": "[businesswireindia.com]"
+    },
+    {
+      "tag_name": "Buzzfeed",
+      "keywords": "[buzzfeed.com, facebook.com/BuzzFeed, twitter.com/buzzfeed, youtube.com/channel/UCpko_-a4wgz2u_DgDgd9fqA]"
+    },
+    {
+      "tag_name": "CAPA",
+      "keywords": "[centreforaviation.com, facebook.com/centreforaviation, twitter.com/CAPA_Aviation]"
+    },
+    {
+      "tag_name": "CARE Ratings",
+      "keywords": "[careratings.com]"
+    },
+    {
+      "tag_name": "CBS",
+      "keywords": "[cbslocal.com]"
+    },
+    {
+      "tag_name": "CCTV",
+      "keywords": "[cctv.cn]"
+    },
+    {
+      "tag_name": "CEO Myanmar",
+      "keywords": "[ceo-myanmar.com]"
+    },
+    {
+      "tag_name": "CIO Asia",
+      "keywords": "[cio-asia.com]"
+    },
+    {
+      "tag_name": "CIO India",
+      "keywords": "[cio.in]"
+    },
+    {
+      "tag_name": "CIOL",
+      "keywords": "[ciol.com]"
+    },
+    {
+      "tag_name": "CMO Australia",
+      "keywords": "[cmo.com.au]"
+    },
+    {
+      "tag_name": "CNBC",
+      "keywords": "[cnbc.com, facebook.com/cnbc, instagram.com/CNBC, twitter.com/cnbc, youtube.com/user/cnbc]"
+    },
+    {
+      "tag_name": "CNET",
+      "keywords": "[cnet.com, facebook.com/cnet, instagram.com/cnet, twitter.com/CNET, youtube.com/user/CNETTV]"
+    },
+    {
+      "tag_name": "CNET Asia",
+      "keywords": "[asia.cnet.com, facebook.com/cnetasia, twitter.com/CNETAsia]"
+    },
+    {
+      "tag_name": "CNN",
+      "keywords": "[cnnpoint.com, facebook.com/cnninternational, instagram.com/cnn, twitter.com/cnni]"
+    },
+    {
+      "tag_name": "CNN Indonesia",
+      "keywords": "[cnnindonesia.com]"
+    },
+    {
+      "tag_name": "CXOtoday",
+      "keywords": "[cxotoday.com]"
+    },
+    {
+      "tag_name": "Cairns Post",
+      "keywords": "[cairnspost.com.au]"
+    },
+    {
+      "tag_name": "Campaign Magazine",
+      "keywords": "[campaignlive.co.uk]"
+    },
+    {
+      "tag_name": "Campus Technology",
+      "keywords": "[campustechnology.com, facebook.com/CampusTechnology, twitter.com/Campus_Tech]"
+    },
+    {
+      "tag_name": "Canary Trap",
+      "keywords": "[canarytrap.in]"
+    },
+    {
+      "tag_name": "Car India",
+      "keywords": "[carindia.in]"
+    },
+    {
+      "tag_name": "CarBlogIndia",
+      "keywords": "[carblogindia.com, facebook.com/indiacarblog, instagram.com/carblogindia, twitter.com/carblogindia, youtube.com/user/carblogindia]"
+    },
+    {
+      "tag_name": "CarDekho News",
+      "keywords": "[cardekho.com]"
+    },
+    {
+      "tag_name": "CarTradeIndia",
+      "keywords": "[cartradeindia.com]"
+    },
+    {
+      "tag_name": "Career Girl Daily",
+      "keywords": "[careergirldaily.com]"
+    },
+    {
+      "tag_name": "Cargo Facts",
+      "keywords": "[acmg.aero]"
+    },
+    {
+      "tag_name": "Carwale",
+      "keywords": "[carwale, carwale.com]"
+    },
+    {
+      "tag_name": "Cash",
+      "keywords": "[cash.ch]"
+    },
+    {
+      "tag_name": "Catch News",
+      "keywords": "[catchnews.com]"
+    },
+    {
+      "tag_name": "Central Chronicle",
+      "keywords": "[centralchronicle.com]"
+    },
+    {
+      "tag_name": "Central Telegraph",
+      "keywords": "[centraltelegraph.com.au]"
+    },
+    {
+      "tag_name": "Channel 8 News",
+      "keywords": "[channel8news.sg, facebook.com/ch8news, instagram.com/ch8newssg, twitter.com/ch8newsSG]"
+    },
+    {
+      "tag_name": "Channel Life",
+      "keywords": "[channellife.co.nz]"
+    },
+    {
+      "tag_name": "Channel News",
+      "keywords": "[channelnews.com.au, channelnewsasia.com, facebook.com/ChannelNewsAsia, twitter.com/channelnewsasia, youtube.com/user/channelnewsasia]"
+    },
+    {
+      "tag_name": "Channel News Asia",
+      "keywords": "[channelnewsasia.com, facebook.com/ChannelNewsAsia, twitter.com/channelnewsasia, youtube.com/user/channelnewsasia]"
+    },
+    {
+      "tag_name": "Channel World",
+      "keywords": "[channelworld.in]"
+    },
+    {
+      "tag_name": "ChannelTimes",
+      "keywords": "[channeltimes.com]"
+    },
+    {
+      "tag_name": "Chemical Industry Digest",
+      "keywords": "[chemindigest.com]"
+    },
+    {
+      "tag_name": "Chennai Centre for China Studies",
+      "keywords": "[c3sindia.org]"
+    },
+    {
+      "tag_name": "Chennai Online",
+      "keywords": "[chennaionline.com]"
+    },
+    {
+      "tag_name": "Chiang Mai",
+      "keywords": "[chiangmaicitylife.com]"
+    },
+    {
+      "tag_name": "ChiangMai Citylife",
+      "keywords": "[chiangmaicitylife.com, facebook.com/CitylifeChiangMai, instagram.com/citylifechiangmai, twitter.com/citylifecm]"
+    },
+    {
+      "tag_name": "Chiangmai Mail",
+      "keywords": "[chiangmai-mail.com, facebook.com/chiangmaimail, twitter.com/chiangmaimail]"
+    },
+    {
+      "tag_name": "Chiangrai Times",
+      "keywords": "[chiangraitimes.com, facebook.com/chiangrai.times, twitter.com/chiangraitimes]"
+    },
+    {
+      "tag_name": "Chicago Tribune",
+      "keywords": "[chicagotribune.com]"
+    },
+    {
+      "tag_name": "China Daily",
+      "keywords": "[chinadaily.com.cn]"
+    },
+    {
+      "tag_name": "China Knowledge Press",
+      "keywords": "[chinaknowledge.com]"
+    },
+    {
+      "tag_name": "China National News",
+      "keywords": "[chinanationalnews.com]"
+    },
+    {
+      "tag_name": "China News (中国新闻网)",
+      "keywords": "[ecns.cn]"
+    },
+    {
+      "tag_name": "China Press (中國報)",
+      "keywords": "[chinapress.com.my]"
+    },
+    {
+      "tag_name": "China Times",
+      "keywords": "[chinatimes.com, facebook.com/CTfans, instagram.com/chinatimessocial, youtube.com/user/ChinaTimes]"
+    },
+    {
+      "tag_name": "China Travel & Tourism News",
+      "keywords": "[chinatraveltourismnews.com]"
+    },
+    {
+      "tag_name": "ChinaNews (中国新闻社)",
+      "keywords": "[chinanews.com]"
+    },
+    {
+      "tag_name": "Chosun",
+      "keywords": "[chosun.com]"
+    },
+    {
+      "tag_name": "Chunichi",
+      "keywords": "[chunichi.co.jp]"
+    },
+    {
+      "tag_name": "Cious Magazine",
+      "keywords": "[ciousmagz.com]"
+    },
+    {
+      "tag_name": "Circle ID",
+      "keywords": "[circleid.com]"
+    },
+    {
+      "tag_name": "CircusSocial",
+      "keywords": "[circusocial.com, instagram.com/circustesting, twitter.com/CircussocialIT]"
+    },
+    {
+      "tag_name": "City City Bang Bang",
+      "keywords": "[blogs.timesofindia.indiatimes.com]"
+    },
+    {
+      "tag_name": "Civil Aviation Training",
+      "keywords": "[caainternational.com]"
+    },
+    {
+      "tag_name": "Coconuts",
+      "keywords": "[coconuts.co, facebook.com/CoconutsSingapore, instagram.com/coconuts, twitter.com/CoconutsSG]"
+    },
+    {
+      "tag_name": "Coconuts Singapore",
+      "keywords": "[singapore.coconuts.co]"
+    },
+    {
+      "tag_name": "Cogencis CommodityWire",
+      "keywords": "[cogencis.com]"
+    },
+    {
+      "tag_name": "Cogencis EquityWire",
+      "keywords": "[cogencis.com]"
+    },
+    {
+      "tag_name": "Cogencis Indonesia Wire",
+      "keywords": "[cogencis.com]"
+    },
+    {
+      "tag_name": "Cogencis MoneyWire",
+      "keywords": "[cogencis.com]"
+    },
+    {
+      "tag_name": "Commercial Vehicle",
+      "keywords": "[commercialvehicle.in]"
+    },
+    {
+      "tag_name": "Commodity Online",
+      "keywords": "[commodityonline.com]"
+    },
+    {
+      "tag_name": "Communications Today",
+      "keywords": "[communicationstoday.co.in]"
+    },
+    {
+      "tag_name": "Communist Party of India",
+      "keywords": "[cpim.org]"
+    },
+    {
+      "tag_name": "Community Plus",
+      "keywords": "[cplus.e-commune.jp]"
+    },
+    {
+      "tag_name": "Composites Industry News",
+      "keywords": "[compositesindustrynews.com]"
+    },
+    {
+      "tag_name": "Computer World",
+      "keywords": "[computerworld.com.sg]"
+    },
+    {
+      "tag_name": "Computerworld Malaysia",
+      "keywords": "[computerworld.com.my]"
+    },
+    {
+      "tag_name": "Consult Myanmar",
+      "keywords": "[consult-myanmar.com]"
+    },
+    {
+      "tag_name": "Consumer Voice",
+      "keywords": "[consumer-voice.org]"
+    },
+    {
+      "tag_name": "Consumerist",
+      "keywords": "[consumerist.com]"
+    },
+    {
+      "tag_name": "Control Engineering Asia",
+      "keywords": "[ceasiamag.com]"
+    },
+    {
+      "tag_name": "ConvergenceAsia",
+      "keywords": "[convergenceasia.com]"
+    },
+    {
+      "tag_name": "Corporate Jet Investor",
+      "keywords": "[corporatejetinvestor.com]"
+    },
+    {
+      "tag_name": "Counter Currents",
+      "keywords": "[countercurrents.org]"
+    },
+    {
+      "tag_name": "Crikey",
+      "keywords": "[crikey.com.au, facebook.com/crikey.com.au, twitter.com/crikey_news]"
+    },
+    {
+      "tag_name": "Cruise & Travel Asia",
+      "keywords": "[aseancruising.com]"
+    },
+    {
+      "tag_name": "Cushman And Wakefield",
+      "keywords": "[dtz.com]"
+    },
+    {
+      "tag_name": "Cyprus Mail",
+      "keywords": "[cyprus-mail.com]"
+    },
+    {
+      "tag_name": "DIGITIMES",
+      "keywords": "[digitimes.com, facebook.com/DIGITIMES-89446733162, twitter.com/DigitimesDotCom]"
+    },
+    {
+      "tag_name": "DNA",
+      "keywords": "[digitalnewsasia.com, dnaindia.com]"
+    },
+    {
+      "tag_name": "DOHA NEWS",
+      "keywords": "[dohanews.co]"
+    },
+    {
+      "tag_name": "DOYELTIMES",
+      "keywords": "[doyeltimes.com]"
+    },
+    {
+      "tag_name": "DP",
+      "keywords": "[dp.ru]"
+    },
+    {
+      "tag_name": "DQ Channels India",
+      "keywords": "[dqchannels.ciol.com]"
+    },
+    {
+      "tag_name": "DQ Week",
+      "keywords": "[dqweek.ciol.com]"
+    },
+    {
+      "tag_name": "DVB",
+      "keywords": "[dvb.no]"
+    },
+    {
+      "tag_name": "Dagens Industri",
+      "keywords": "[di.se]"
+    },
+    {
+      "tag_name": "Dagens Nyheter",
+      "keywords": "[dn.se]"
+    },
+    {
+      "tag_name": "Daily Bhaskar",
+      "keywords": "[daily.bhaskar.com]"
+    },
+    {
+      "tag_name": "Daily Broadcaster",
+      "keywords": "[dailybroadcaster.com]"
+    },
+    {
+      "tag_name": "Daily Excelsior",
+      "keywords": "[dailyexcelsior.com]"
+    },
+    {
+      "tag_name": "Daily Express",
+      "keywords": "[dailyexpress.com.my]"
+    },
+    {
+      "tag_name": "Daily Geeky",
+      "keywords": "[dailygeeky.com]"
+    },
+    {
+      "tag_name": "Daily Mail",
+      "keywords": "[dailymail.co.uk, facebook.com/DailyMail, facebook.com/DailyMailAust, twitter.com/DailyMailAU, twitter.com/MailOnline, youtube.com/channel/UCwo_ZyhH4UDvs46WqVGFRXQ]"
+    },
+    {
+      "tag_name": "Daily News",
+      "keywords": "[dailynewsegypt.com]"
+    },
+    {
+      "tag_name": "Daily Post",
+      "keywords": "[dailypost.in]"
+    },
+    {
+      "tag_name": "Daily Republic",
+      "keywords": "[dailyrepublic.com]"
+    },
+    {
+      "tag_name": "Daily Singapore",
+      "keywords": "[dailysingapore.com]"
+    },
+    {
+      "tag_name": "Daily Telegraph",
+      "keywords": "[dailytelegraph.com.au, facebook.com/dailytelegraph, instagram.com/dailytelegraph, twitter.com/dailytelegraph, youtube.com/user/dailytelegraphau]"
+    },
+    {
+      "tag_name": "DailyMe",
+      "keywords": "[dailyme.com, facebook.com/DailyMe-255985420456, twitter.com/dailyme]"
+    },
+    {
+      "tag_name": "DailyO",
+      "keywords": "[dailyo.in]"
+    },
+    {
+      "tag_name": "Dantri",
+      "keywords": "[dantri.com.vn]"
+    },
+    {
+      "tag_name": "Dataquest",
+      "keywords": "[dqindia.com]"
+    },
+    {
+      "tag_name": "DealStreetAsia",
+      "keywords": "[dealstreetasia.com]"
+    },
+    {
+      "tag_name": "Deccan Chronicle",
+      "keywords": "[deccanchronicle.com]"
+    },
+    {
+      "tag_name": "Deccan Herald",
+      "keywords": "[deccanherald.com]"
+    },
+    {
+      "tag_name": "Deepika Global",
+      "keywords": "[deepikaglobal.com]"
+    },
+    {
+      "tag_name": "Defence News",
+      "keywords": "[defencenews.in, facebook.com/indiandefencenews, twitter.com/defence_news]"
+    },
+    {
+      "tag_name": "Defence Today",
+      "keywords": "[defence-today.com.au]"
+    },
+    {
+      "tag_name": "Defence talk",
+      "keywords": "[defencetalk.com]"
+    },
+    {
+      "tag_name": "Democratic Voice of Burma",
+      "keywords": "[burmese.dvb.no, facebook.com/DVBTVNews, facebook.com/dvb.fanpage, youtube.com/channel/UCuaRmKJLYaVMDHrnjhWUcHw]"
+    },
+    {
+      "tag_name": "Der Landbote",
+      "keywords": "[landbote.ch]"
+    },
+    {
+      "tag_name": "Design Engineering",
+      "keywords": "[design-engineering.com, twitter.com/design_eng_mag]"
+    },
+    {
+      "tag_name": "DestinAsian",
+      "keywords": "[destinasian.com]"
+    },
+    {
+      "tag_name": "Destination Thailand",
+      "keywords": "[destinationthailandnews.com]"
+    },
+    {
+      "tag_name": "Detak",
+      "keywords": "[detak.co.id]"
+    },
+    {
+      "tag_name": "Detikcom",
+      "keywords": "[detik.com, facebook.com/wwwdetikcom, instagram.com/detikcom, twitter.com/detikcom]"
+    },
+    {
+      "tag_name": "Digit",
+      "keywords": "[digit.in]"
+    },
+    {
+      "tag_name": "Digital Learning",
+      "keywords": "[digitallearning.eletsonline.com]"
+    },
+    {
+      "tag_name": "Digital Market Asia",
+      "keywords": "[digitalmarket.asia]"
+    },
+    {
+      "tag_name": "Digital Terminal",
+      "keywords": "[digitalterminal.in]"
+    },
+    {
+      "tag_name": "Digital Trends",
+      "keywords": "[digitaltrends.com]"
+    },
+    {
+      "tag_name": "DigitalRev",
+      "keywords": "[digitalrev.com]"
+    },
+    {
+      "tag_name": "Dion News Service",
+      "keywords": "[dionglobal.com]"
+    },
+    {
+      "tag_name": "Discover Newsline",
+      "keywords": "[discovernewsline.com]"
+    },
+    {
+      "tag_name": "DivePhotoGuide",
+      "keywords": "[divephotoguide.com]"
+    },
+    {
+      "tag_name": "Diversityinc",
+      "keywords": "[diversityinc.com]"
+    },
+    {
+      "tag_name": "Doi song Phap Luat",
+      "keywords": "[doisongphapluat.com]"
+    },
+    {
+      "tag_name": "Domain-B",
+      "keywords": "[domain-b.com]"
+    },
+    {
+      "tag_name": "Domex Recorder of New Projects Premium",
+      "keywords": "[domexinfo.in]"
+    },
+    {
+      "tag_name": "Dope",
+      "keywords": "[dope.sg]"
+    },
+    {
+      "tag_name": "DpReview",
+      "keywords": "[dpreview.com]"
+    },
+    {
+      "tag_name": "Dvinanews",
+      "keywords": "[dvinanews.ru]"
+    },
+    {
+      "tag_name": "E Pao",
+      "keywords": "[e-pao.net]"
+    },
+    {
+      "tag_name": "E-United",
+      "keywords": "[restaurant-hospitality.com]"
+    },
+    {
+      "tag_name": "EET India",
+      "keywords": "[eetindia.co.in]"
+    },
+    {
+      "tag_name": "EJapion",
+      "keywords": "[ejapion.com]"
+    },
+    {
+      "tag_name": "ET Auto",
+      "keywords": "[EconomicTimesAuto, auto.economictimes.indiatimes.com]"
+    },
+    {
+      "tag_name": "ETCIO",
+      "keywords": "[cio.economictimes.indiatimes.com]"
+    },
+    {
+      "tag_name": "EToday",
+      "keywords": "[etoday.co.kr]"
+    },
+    {
+      "tag_name": "EXPRESS",
+      "keywords": "[express.co.uk, facebook.com/DailyExpress, twitter.com/daily_express]"
+    },
+    {
+      "tag_name": "Eco Watch",
+      "keywords": "[ecowatch.com]"
+    },
+    {
+      "tag_name": "Eco-Business",
+      "keywords": "[eco-business.com]"
+    },
+    {
+      "tag_name": "EconoTimes",
+      "keywords": "[econotimes.com, facebook.com/495836430568048/, twitter.com/@econodaily]"
+    },
+    {
+      "tag_name": "Economic Daily News",
+      "keywords": "[edn.udn.com, facebook.com/edn168]"
+    },
+    {
+      "tag_name": "Economic Research Institute for ASEAN",
+      "keywords": "[eria.org]"
+    },
+    {
+      "tag_name": "Economy and Life (EG)",
+      "keywords": "[eg-online.ru]"
+    },
+    {
+      "tag_name": "Edmunds",
+      "keywords": "[edmunds.com]"
+    },
+    {
+      "tag_name": "Ejinsight",
+      "keywords": "[ejinsight.com]"
+    },
+    {
+      "tag_name": "Electronics Bazaar",
+      "keywords": "[eb.efyindia.com]"
+    },
+    {
+      "tag_name": "Eleven Media",
+      "keywords": "[news-eleven.com]"
+    },
+    {
+      "tag_name": "Eleven Myanmar",
+      "keywords": "[elevenmyanmar.com]"
+    },
+    {
+      "tag_name": "Emaratalyoum Newspaper(الإمارات اليوم)",
+      "keywords": "[emaratalyoum.com]"
+    },
+    {
+      "tag_name": "Emirates 24/7",
+      "keywords": "[emirates247.com]"
+    },
+    {
+      "tag_name": "Emkay Research",
+      "keywords": "[emkayshare.com]"
+    },
+    {
+      "tag_name": "Energy Next",
+      "keywords": "[energynext.in]"
+    },
+    {
+      "tag_name": "EnergyAsia",
+      "keywords": "[energyasia.com]"
+    },
+    {
+      "tag_name": "Engadgets",
+      "keywords": "[engadget.com]"
+    },
+    {
+      "tag_name": "Ensia",
+      "keywords": "[ensia.com]"
+    },
+    {
+      "tag_name": "Enterprise IT News",
+      "keywords": "[enterpriseitnews.com.my]"
+    },
+    {
+      "tag_name": "Epoch Times (大紀元)",
+      "keywords": "[epochtimes.com]"
+    },
+    {
+      "tag_name": "Equity Bulls",
+      "keywords": "[equitybulls.com]"
+    },
+    {
+      "tag_name": "Equity Master",
+      "keywords": "[equitymaster.com]"
+    },
+    {
+      "tag_name": "Escooped",
+      "keywords": "[escooped.com]"
+    },
+    {
+      "tag_name": "Eunited",
+      "keywords": "[eunited.com.my]"
+    },
+    {
+      "tag_name": "EurekAlert",
+      "keywords": "[eurekalert.org, facebook.com/EurekAlert, twitter.com/EurekAlert]"
+    },
+    {
+      "tag_name": "Evening Kazan",
+      "keywords": "[evening-kazan.ru]"
+    },
+    {
+      "tag_name": "Exchange4Media",
+      "keywords": "[exchange4media.com]"
+    },
+    {
+      "tag_name": "Executive & VIP Aviation International",
+      "keywords": "[evaint.com, twitter.com/Evaint_news, youtube.com/user/EVAIntMedia]"
+    },
+    {
+      "tag_name": "Expatica",
+      "keywords": "[expatica.com]"
+    },
+    {
+      "tag_name": "Express Computer",
+      "keywords": "[computer.financialexpress.com, expresscomputeronline.com]"
+    },
+    {
+      "tag_name": "Express Pharma",
+      "keywords": "[expressbpd.com]"
+    },
+    {
+      "tag_name": "FM1 Today",
+      "keywords": "[fm1today.ch]"
+    },
+    {
+      "tag_name": "FOX News",
+      "keywords": "[foxnews.com]"
+    },
+    {
+      "tag_name": "FT Chinese",
+      "keywords": "[ftchinese.com, twitter.com/FTChinese]"
+    },
+    {
+      "tag_name": "FT 中文 网",
+      "keywords": "[ftchinese.com]"
+    },
+    {
+      "tag_name": "FVA",
+      "keywords": "[fva.org]"
+    },
+    {
+      "tag_name": "FVW",
+      "keywords": "[fvw.com]"
+    },
+    {
+      "tag_name": "Fair Observer",
+      "keywords": "[fairobserver.com]"
+    },
+    {
+      "tag_name": "Fajar",
+      "keywords": "[fajar.co.id]"
+    },
+    {
+      "tag_name": "Fansided",
+      "keywords": "[beyondtheflag.com]"
+    },
+    {
+      "tag_name": "Farm Weekly",
+      "keywords": "[farmweekly.com.au]"
+    },
+    {
+      "tag_name": "Fast Company",
+      "keywords": "[facebook.com/FastCompany, fastcompany.com, twitter.com/fastcompany]"
+    },
+    {
+      "tag_name": "Filipino Express",
+      "keywords": "[filipinoexpress.com]"
+    },
+    {
+      "tag_name": "FinanceAsia",
+      "keywords": "[financeasia.com]"
+    },
+    {
+      "tag_name": "Financial Review",
+      "keywords": "[facebook.com/financialreview, instagram.com/financialreview, twitter.com/FinancialReview, youtube.com/channel/UCML-IRb2g66A44iK1y_OLeQ]"
+    },
+    {
+      "tag_name": "Financial Times",
+      "keywords": "[facebook.com/financialtimes, ft.com, instagram.com/financialtimes, twitter.com/FTPressOffice, twitter.com/ft, twitter.com/ftcare, youtube.com/user/FinancialTimesVideos]"
+    },
+    {
+      "tag_name": "Finanz Nachrichten",
+      "keywords": "[facebook.com/finanznachrichten, finanznachrichten.de, twitter.com/FN_Press, twitter.com/FN_Press2]"
+    },
+    {
+      "tag_name": "Finanzen",
+      "keywords": "[finanzen.ch, finanzen.net]"
+    },
+    {
+      "tag_name": "Finews.asia",
+      "keywords": "[finews.asia]"
+    },
+    {
+      "tag_name": "Finextra",
+      "keywords": "[finextra.com]"
+    },
+    {
+      "tag_name": "First Post",
+      "keywords": "[firstpost.com]"
+    },
+    {
+      "tag_name": "FnBnews",
+      "keywords": "[fnbnews.com]"
+    },
+    {
+      "tag_name": "Focus",
+      "keywords": "[focus.de]"
+    },
+    {
+      "tag_name": "Focus on the Global South",
+      "keywords": "[facebook.com/focusontheglobalsouth, focusweb.org, instagram.com/focussouth, twitter.com/focussouth, youtube.com/user/focussouth]"
+    },
+    {
+      "tag_name": "Folha de S.Paulo",
+      "keywords": "[folha.uol.com.br]"
+    },
+    {
+      "tag_name": "Forbes",
+      "keywords": "[facebook.com/forbes, forbes.com, forbesindia.com, twitter.com/forbes, youtube.com/forbes]"
+    },
+    {
+      "tag_name": "Forbes Asia",
+      "keywords": "[facebook.com/forbesasia, forbes.com/home_asia/, twitter.com/ForbesAsia, youtube.com/channel/UCxzPrVBqYNIl1HEf65UB7ZA]"
+    },
+    {
+      "tag_name": "Forbes India",
+      "keywords": "[business.in.com]"
+    },
+    {
+      "tag_name": "Fortune",
+      "keywords": "[facebook.com/FortuneMagazine, fortune.com, instagram.com/fortunemag, twitter.com/FortuneMagazine, youtube.com/user/FortuneMagazineVideo]"
+    },
+    {
+      "tag_name": "Fotografos En Puerto Rico",
+      "keywords": "[fotografosenpuertorico.com]"
+    },
+    {
+      "tag_name": "Fourthofficial",
+      "keywords": "[fourthofficial.com]"
+    },
+    {
+      "tag_name": "France24",
+      "keywords": "[france24.com]"
+    },
+    {
+      "tag_name": "Free Malaysia Today",
+      "keywords": "[freemalaysiatoday.com]"
+    },
+    {
+      "tag_name": "Free Nepal",
+      "keywords": "[freenepal.com]"
+    },
+    {
+      "tag_name": "Fukitol",
+      "keywords": "[freedomnewsgroup.com]"
+    },
+    {
+      "tag_name": "Future Handling",
+      "keywords": "[futurehandling.com]"
+    },
+    {
+      "tag_name": "GC MAG",
+      "keywords": "[gcmag.com.au]"
+    },
+    {
+      "tag_name": "GGRAsia",
+      "keywords": "[ggrasia.com]"
+    },
+    {
+      "tag_name": "GIZMODO",
+      "keywords": "[facebook.com/GizmodoUK, facebook.com/gizmodo, gizmodo.com.au, instagram.com/gizmodo, twitter.com/GizmodoUK, twitter.com/GizmodoUSA, youtube.com/channel/UCxFmw3IUMDUC1Hh7qDjtjZQ, youtube.com/user/GizmodoUK]"
+    },
+    {
+      "tag_name": "GMA",
+      "keywords": "[gmanetwork.com]"
+    },
+    {
+      "tag_name": "GNN",
+      "keywords": "[gaynewsnetwork.com.au]"
+    },
+    {
+      "tag_name": "Gandawin",
+      "keywords": "[gandawin.net]"
+    },
+    {
+      "tag_name": "Gatra",
+      "keywords": "[gatra.com]"
+    },
+    {
+      "tag_name": "Gawker",
+      "keywords": "[gawker.com]"
+    },
+    {
+      "tag_name": "Gazeta",
+      "keywords": "[gazeta.ru]"
+    },
+    {
+      "tag_name": "General Gazeta",
+      "keywords": "[og.ru]"
+    },
+    {
+      "tag_name": "Global Indonesian Voices",
+      "keywords": "[globalindonesianvoices.com]"
+    },
+    {
+      "tag_name": "Global Times",
+      "keywords": "[globaltimes.cn]"
+    },
+    {
+      "tag_name": "GlobalTravelMedia",
+      "keywords": "[eglobaltravelmedia.com.au, facebook.com/GlobalTravelMedia, twitter.com/EGTmedia]"
+    },
+    {
+      "tag_name": "Gloria James-Civetta & co",
+      "keywords": "[singaporecriminallawyer.com]"
+    },
+    {
+      "tag_name": "Green Left Weekly",
+      "keywords": "[greenleft.org.au]"
+    },
+    {
+      "tag_name": "Grenchner Tagblatt",
+      "keywords": "[grenchnertagblatt.ch]"
+    },
+    {
+      "tag_name": "Gresnews",
+      "keywords": "[gresnews.com]"
+    },
+    {
+      "tag_name": "Guangming (光明日報)",
+      "keywords": "[facebook.com/GuangMingDaily, guangming.com.my]"
+    },
+    {
+      "tag_name": "Guangming Daily",
+      "keywords": "[sinchew-i.com]"
+    },
+    {
+      "tag_name": "Guangming Online",
+      "keywords": "[gmw.cn]"
+    },
+    {
+      "tag_name": "Gulf News",
+      "keywords": "[gulfnews.com]"
+    },
+    {
+      "tag_name": "HOT 107.9",
+      "keywords": "[1079ishot.com]"
+    },
+    {
+      "tag_name": "Hakodate Shimbum Digital",
+      "keywords": "[hakoshin.jp]"
+    },
+    {
+      "tag_name": "HallyunNation",
+      "keywords": "[hallyunation.com]"
+    },
+    {
+      "tag_name": "Haluan Kepri",
+      "keywords": "[haluankepri.com]"
+    },
+    {
+      "tag_name": "Hani",
+      "keywords": "[hani.co.kr]"
+    },
+    {
+      "tag_name": "Hankooki (한국아이닷컴)",
+      "keywords": "[hankooki.com]"
+    },
+    {
+      "tag_name": "Haps Magazine Korea",
+      "keywords": "[busanhaps.com]"
+    },
+    {
+      "tag_name": "Harakahdaily",
+      "keywords": "[harakahdaily.net]"
+    },
+    {
+      "tag_name": "Hardware Zone",
+      "keywords": "[hardwarezone.com]"
+    },
+    {
+      "tag_name": "Harian Berita Sore",
+      "keywords": "[beritasore.com]"
+    },
+    {
+      "tag_name": "Harian Metro",
+      "keywords": "[facebook.com/harianmetroX, hmetro.com.myX, instagram.com/hmetromyX, twitter.com/hmetromyX, youtube.com/user/hmetromy]"
+    },
+    {
+      "tag_name": "Harian Terbit",
+      "keywords": "[harianterbit.com]"
+    },
+    {
+      "tag_name": "Harian Umum Independen Singgalang",
+      "keywords": "[hariansinggalang.co.id]"
+    },
+    {
+      "tag_name": "Harian anandalas",
+      "keywords": "[harianandalas.com]"
+    },
+    {
+      "tag_name": "Harvard Business",
+      "keywords": "[facebook.com/HBR, harvardbusiness.org, hbr.org, twitter.com/HarvardBiz]"
+    },
+    {
+      "tag_name": "HeadlineHK (頭條日報)",
+      "keywords": "[stheadline.com]"
+    },
+    {
+      "tag_name": "Heise",
+      "keywords": "[heise.de]"
+    },
+    {
+      "tag_name": "Herald Sun",
+      "keywords": "[facebook.com/heraldsun, heraldsun.com.au, instagram.com/heraldsunphoto, twitter.com/theheraldsun, youtube.com/user/heraldsunonline]"
+    },
+    {
+      "tag_name": "Hindustan Times",
+      "keywords": "[hindustantimes.com]"
+    },
+    {
+      "tag_name": "Hispanic Network",
+      "keywords": "[hnmagazine.com]"
+    },
+    {
+      "tag_name": "Hkej",
+      "keywords": "[hkej.com]"
+    },
+    {
+      "tag_name": "Hoa Hoc Tro",
+      "keywords": "[hoahoctro.vn]"
+    },
+    {
+      "tag_name": "Home Team News",
+      "keywords": "[hometeam.sg]"
+    },
+    {
+      "tag_name": "Hong Kong Economic Journal",
+      "keywords": "[facebook.com/hongkongeconomicjournal, hkej.com, twitter.com/HKEJGROUP]"
+    },
+    {
+      "tag_name": "Hong Kong Herald",
+      "keywords": "[hongkongherald.com]"
+    },
+    {
+      "tag_name": "Hot Techie News",
+      "keywords": "[hottechienews.com]"
+    },
+    {
+      "tag_name": "Hua Hin Today",
+      "keywords": "[facebook.com/huahintodaynews, huahintoday.com, twitter.com/huahintoday, youtube.com/user/HuaHinToday/videos]"
+    },
+    {
+      "tag_name": "Human Resources Director",
+      "keywords": "[hcamag.com]"
+    },
+    {
+      "tag_name": "Höfner Volksblatts",
+      "keywords": "[hoefner.ch]"
+    },
+    {
+      "tag_name": "ICICI Direct Research",
+      "keywords": "[content.icicidirect.com]"
+    },
+    {
+      "tag_name": "IIFL",
+      "keywords": "[indiainfoline.com]"
+    },
+    {
+      "tag_name": "INDIA CAR NEWS",
+      "keywords": "[facebook.com/IndiaCarNews, indiacarnews.com, twitter.com/IndiaCarNews, youtube.com/channel/UCWlwXxozORjOVZzfGyuV6Vw]"
+    },
+    {
+      "tag_name": "INQUISITR",
+      "keywords": "[inquisitr.com]"
+    },
+    {
+      "tag_name": "INVESTOPEDIA",
+      "keywords": "[facebook.com/Investopedia, investopedia.com, twitter.com/investopedia, youtube.com/user/investopediacom]"
+    },
+    {
+      "tag_name": "IPO Research Analysis",
+      "keywords": "[accordfintech.com]"
+    },
+    {
+      "tag_name": "IQPlus News",
+      "keywords": "[iqplus.info]"
+    },
+    {
+      "tag_name": "IT Brief",
+      "keywords": "[itbrief.co.nz]"
+    },
+    {
+      "tag_name": "Ibaraki News",
+      "keywords": "[ibarakinews.jp]"
+    },
+    {
+      "tag_name": "In USA News",
+      "keywords": "[inusanews.com]"
+    },
+    {
+      "tag_name": "InDaily",
+      "keywords": "[indaily.com.au]"
+    },
+    {
+      "tag_name": "Inc",
+      "keywords": "[facebook.com/Inc, inc.com, twitter.com/inc, youtube.com/user/incmagazine]"
+    },
+    {
+      "tag_name": "Independent",
+      "keywords": "[independent.co.uk]"
+    },
+    {
+      "tag_name": "India Banking News",
+      "keywords": "[app.contify.com]"
+    },
+    {
+      "tag_name": "India Energy News",
+      "keywords": "[app.contify.com]"
+    },
+    {
+      "tag_name": "India Insurance News",
+      "keywords": "[app.contify.com]"
+    },
+    {
+      "tag_name": "India Investment News",
+      "keywords": "[app.contify.com]"
+    },
+    {
+      "tag_name": "India Pharma News",
+      "keywords": "[app.contify.com]"
+    },
+    {
+      "tag_name": "India Retail News",
+      "keywords": "[app.contify.com]"
+    },
+    {
+      "tag_name": "India Today",
+      "keywords": "[intoday.in]"
+    },
+    {
+      "tag_name": "India Trademark News",
+      "keywords": "[app.contify.com]"
+    },
+    {
+      "tag_name": "India.com",
+      "keywords": "[india.com]"
+    },
+    {
+      "tag_name": "Indian Company Con-Calls",
+      "keywords": "[accordfintech.com]"
+    },
+    {
+      "tag_name": "Indian Company Profiles",
+      "keywords": "[accordfintech.com]"
+    },
+    {
+      "tag_name": "Indian Company Research",
+      "keywords": "[accordfintech.com]"
+    },
+    {
+      "tag_name": "Indian Drivers",
+      "keywords": "[facebook.com/IndianDrives, indiandrives.com, twitter.com/indiandrives, youtube.com/user/indiandrives]"
+    },
+    {
+      "tag_name": "Indian Express",
+      "keywords": "[indianexpress, indianexpress.com, youtube.com/IndianExpress]"
+    },
+    {
+      "tag_name": "Indian Patent News",
+      "keywords": "[app.contify.com]"
+    },
+    {
+      "tag_name": "Indian Television",
+      "keywords": "[indiantelevision.com]"
+    },
+    {
+      "tag_name": "Indianautosblog",
+      "keywords": "[IndianAutosBlog, facebook.com/IndianAutosBlog, indianautosblog.com, twitter.com/indianautos, youtube.com/user/IndianAutosBlog]"
+    },
+    {
+      "tag_name": "Indiatoday",
+      "keywords": "[indiatoday.intoday.in]"
+    },
+    {
+      "tag_name": "Indo Post",
+      "keywords": "[indopos.co.id]"
+    },
+    {
+      "tag_name": "Indonesia Investments",
+      "keywords": "[indonesia-investments.com]"
+    },
+    {
+      "tag_name": "Industry Outlook Analysis",
+      "keywords": "[accordfintech.com]"
+    },
+    {
+      "tag_name": "Infoseek (ニュース)",
+      "keywords": "[infoseek.co.jp]"
+    },
+    {
+      "tag_name": "Inilah Koran",
+      "keywords": "[inilahkoran.com]"
+    },
+    {
+      "tag_name": "Inilahdotcom",
+      "keywords": "[inilah.com]"
+    },
+    {
+      "tag_name": "Inmedia hk",
+      "keywords": "[inmediahk.net]"
+    },
+    {
+      "tag_name": "Inquirer",
+      "keywords": "[inquirer.com.ph, inquirer.net]"
+    },
+    {
+      "tag_name": "Inside Indonesia",
+      "keywords": "[insideindonesia.org]"
+    },
+    {
+      "tag_name": "Insing",
+      "keywords": "[insing.com]"
+    },
+    {
+      "tag_name": "Interesting Engineering",
+      "keywords": "[facebook.com/interestingengineering, interestingengineering.com, twitter.com/IntEngineering, youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ]"
+    },
+    {
+      "tag_name": "Interfax",
+      "keywords": "[interfax.ru]"
+    },
+    {
+      "tag_name": "International Aviation",
+      "keywords": "[facebook.com/InternationalCivilAviationOrganization, icao.int, twitter.com/icao, youtube.com/user/ICAOvideo]"
+    },
+    {
+      "tag_name": "International Business Times",
+      "keywords": "[ibtimes.co.in, ibtimes.com]"
+    },
+    {
+      "tag_name": "International News for Myanmar",
+      "keywords": "[innewsmyanmar.com]"
+    },
+    {
+      "tag_name": "Internet Journal",
+      "keywords": "[internetjournal.media]"
+    },
+    {
+      "tag_name": "Investor Daily",
+      "keywords": "[id.beritasatu.com]"
+    },
+    {
+      "tag_name": "Iphone Droid",
+      "keywords": "[iphone-droid.net]"
+    },
+    {
+      "tag_name": "Irish Tech News",
+      "keywords": "[facebook.com/IrishTechNews, irishtechnews.ie, twitter.com/Irish_TechNews]"
+    },
+    {
+      "tag_name": "Islamic Finance News",
+      "keywords": "[app.contify.com]"
+    },
+    {
+      "tag_name": "Itnews24hrs",
+      "keywords": "[itnews24hrs.com]"
+    },
+    {
+      "tag_name": "Itogi",
+      "keywords": "[itogi.ru]"
+    },
+    {
+      "tag_name": "Izvestia",
+      "keywords": "[izvestia.ru]"
+    },
+    {
+      "tag_name": "Jakarta Globe",
+      "keywords": "[jakartaglobe.id, thejakartaglobe.com]"
+    },
+    {
+      "tag_name": "Janes Defence Weekly",
+      "keywords": "[facebook.com/flightglobal, flightglobal.com, twitter.com/flightglobal, youtube.com/user/Flightglobal]"
+    },
+    {
+      "tag_name": "Japan Today",
+      "keywords": "[japantoday.com]"
+    },
+    {
+      "tag_name": "Japanese Communist Party",
+      "keywords": "[jcp.or.jp]"
+    },
+    {
+      "tag_name": "Jawa Pos",
+      "keywords": "[jawapos.com]"
+    },
+    {
+      "tag_name": "JetGala",
+      "keywords": "[facebook.com/JetgalaMagazine, jetgala.com, twitter.com/JETGALA]"
+    },
+    {
+      "tag_name": "Jiggaban",
+      "keywords": "[jiggaban.com]"
+    },
+    {
+      "tag_name": "Journal Online",
+      "keywords": "[journal.com.ph]"
+    },
+    {
+      "tag_name": "Journal Tribuna De Macau",
+      "keywords": "[jtm.com.mo]"
+    },
+    {
+      "tag_name": "Jpnn.com",
+      "keywords": "[jpnn.com]"
+    },
+    {
+      "tag_name": "Juice",
+      "keywords": "[juice.com.sg]"
+    },
+    {
+      "tag_name": "Junkee",
+      "keywords": "[facebook.com/junkeedotcom, junkee.com, twitter.com/junkeedotcom, youtube.com/channel/UCywSHYQUjX8GDZIiLDdHooA]"
+    },
+    {
+      "tag_name": "Just HEre",
+      "keywords": "[justhere.qa]"
+    },
+    {
+      "tag_name": "KBS World Radio",
+      "keywords": "[kbs.co.kr]"
+    },
+    {
+      "tag_name": "KENH 14",
+      "keywords": "[kenh14.vn]"
+    },
+    {
+      "tag_name": "KIENTHUC",
+      "keywords": "[kienthuc.net.vn]"
+    },
+    {
+      "tag_name": "KSAL.com",
+      "keywords": "[ksal.com]"
+    },
+    {
+      "tag_name": "Kabar Bisnis",
+      "keywords": "[kabarbisnis.com]"
+    },
+    {
+      "tag_name": "Kabar Indonesia",
+      "keywords": "[kabarindonesia.com]"
+    },
+    {
+      "tag_name": "Kachiland News",
+      "keywords": "[kachinlandnews.com]"
+    },
+    {
+      "tag_name": "Kannada Prabha",
+      "keywords": "[kannadaprabha.com]"
+    },
+    {
+      "tag_name": "Karavan kapabah",
+      "keywords": "[karavan.tver.ru]"
+    },
+    {
+      "tag_name": "Kashmir Images",
+      "keywords": "[dailykashmirimages.com]"
+    },
+    {
+      "tag_name": "Kashmir Observer",
+      "keywords": "[kashmirobserver.net]"
+    },
+    {
+      "tag_name": "Kedaulatan Rakyat",
+      "keywords": "[krjogja.com]"
+    },
+    {
+      "tag_name": "Khaleej Times",
+      "keywords": "[khaleejtimes.com]"
+    },
+    {
+      "tag_name": "Khan Co",
+      "keywords": "[khan.co.kr]"
+    },
+    {
+      "tag_name": "Khaosod English",
+      "keywords": "[facebook.com/KhaosodEnglish, instagram.com/khaosodenglish, khaosodenglish.com, twitter.com/KhaosodEnglish, youtube.com/user/KhaosodEnglish]"
+    },
+    {
+      "tag_name": "Khaosod Online",
+      "keywords": "[facebook.com/khaosod, instagram.com/khaosod, khaosod.co.th, twitter.com/KhaosodOnline]"
+    },
+    {
+      "tag_name": "Kicker Daily News",
+      "keywords": "[kickerdaily.com]"
+    },
+    {
+      "tag_name": "Kingdom Revival Times",
+      "keywords": "[krt.com.hk]"
+    },
+    {
+      "tag_name": "Klikpositif",
+      "keywords": "[klikpositif.com]"
+    },
+    {
+      "tag_name": "Kmib",
+      "keywords": "[kmib.co.kr]"
+    },
+    {
+      "tag_name": "Knowridge",
+      "keywords": "[facebook.com/Knowridge, knowridge.com, twitter.com/KnowridgeSci]"
+    },
+    {
+      "tag_name": "Kom Chad Luek",
+      "keywords": "[facebook.com/komchadluek, komchadluek.net, twitter.com/kom_chad_luek]"
+    },
+    {
+      "tag_name": "Kompas.com",
+      "keywords": "[facebook.com/KOMPAScom, instagram.com/kompascom, kompas.com, twitter.com/kompascom]"
+    },
+    {
+      "tag_name": "Kontan",
+      "keywords": "[kontan.co.id]"
+    },
+    {
+      "tag_name": "Koran Jakarta",
+      "keywords": "[koran-jakarta.com]"
+    },
+    {
+      "tag_name": "Koran Sindo",
+      "keywords": "[koran-sindo.com]"
+    },
+    {
+      "tag_name": "Korea Herald",
+      "keywords": "[koreaherald.com]"
+    },
+    {
+      "tag_name": "Korea Times",
+      "keywords": "[koreatimes.co.kr]"
+    },
+    {
+      "tag_name": "Kosmo",
+      "keywords": "[facebook.com/kosmo.online, kosmo.com.my]"
+    },
+    {
+      "tag_name": "Kristakov",
+      "keywords": "[kristakov.com]"
+    },
+    {
+      "tag_name": "Krjogja",
+      "keywords": "[krjogja.com]"
+    },
+    {
+      "tag_name": "Kuala Lumpur Post",
+      "keywords": "[kualalumpurpost.net]"
+    },
+    {
+      "tag_name": "Kuanjai",
+      "keywords": "[kuanjailao.com]"
+    },
+    {
+      "tag_name": "Kwong Wah",
+      "keywords": "[facebook.com/kwongwah.my, kwongwah.com.my, youtube.com/user/kwypactv]"
+    },
+    {
+      "tag_name": "Ky nguyen so",
+      "keywords": "[kynguyenso.phapluattp.vn]"
+    },
+    {
+      "tag_name": "Kyodo News",
+      "keywords": "[kyodonews.jp]"
+    },
+    {
+      "tag_name": "LIVE SCIENCE",
+      "keywords": "[livescience.com, twitter.com/LiveScience, youtube.com/user/LiveScienceVideos]"
+    },
+    {
+      "tag_name": "Lampung Post",
+      "keywords": "[lampungpost.com]"
+    },
+    {
+      "tag_name": "LancasterOnline",
+      "keywords": "[lancasteronline.com]"
+    },
+    {
+      "tag_name": "Lao Dong Thu Do",
+      "keywords": "[laodongthudo.vn]"
+    },
+    {
+      "tag_name": "Lao Voices",
+      "keywords": "[laovoices.com]"
+    },
+    {
+      "tag_name": "Laodong",
+      "keywords": "[laodong.com.vn]"
+    },
+    {
+      "tag_name": "Le Figaro",
+      "keywords": "[lefigaro.fr]"
+    },
+    {
+      "tag_name": "Le Matin",
+      "keywords": "[lematin.ch]"
+    },
+    {
+      "tag_name": "Le Monde.fr",
+      "keywords": "[lemonde.fr]"
+    },
+    {
+      "tag_name": "Lgz",
+      "keywords": "[lgz.ru]"
+    },
+    {
+      "tag_name": "Lianhe Wanbao",
+      "keywords": "[sph.com.sg]"
+    },
+    {
+      "tag_name": "Lianhe Zaobao",
+      "keywords": "[facebook.com/LianheZaobao, instagram.com/lianhe_zaobao, twitter.com/zbcom, zaobao.com.sg]"
+    },
+    {
+      "tag_name": "Liberty Times Net",
+      "keywords": "[facebook.com/m.ltn.tw, ltn.com.tw]"
+    },
+    {
+      "tag_name": "Liberté",
+      "keywords": "[liberte-algerie.com]"
+    },
+    {
+      "tag_name": "Lifehacker",
+      "keywords": "[lifehacker.com.au]"
+    },
+    {
+      "tag_name": "Liputan 6",
+      "keywords": "[facebook.com/liputan6online, liputan6.com, twitter.com/liputan6dotcom]"
+    },
+    {
+      "tag_name": "ListedCompany",
+      "keywords": "[listedcompany.com]"
+    },
+    {
+      "tag_name": "Live Mint",
+      "keywords": "[livemint.com]"
+    },
+    {
+      "tag_name": "Live Trading News",
+      "keywords": "[livetradingnews.com]"
+    },
+    {
+      "tag_name": "Livekenigsberg",
+      "keywords": "[nevskoevremya.spb.ru]"
+    },
+    {
+      "tag_name": "Lloyds List",
+      "keywords": "[lloydslist.com, twitter.com/lloydslist]"
+    },
+    {
+      "tag_name": "Logistics Insight Asia",
+      "keywords": "[logasiamag.com]"
+    },
+    {
+      "tag_name": "Los Angeles News",
+      "keywords": "[losangelesnewsinfo.com]"
+    },
+    {
+      "tag_name": "Los Angeles Times",
+      "keywords": "[facebook.com/latimes, latimes.com, twitter.com/latimes]"
+    },
+    {
+      "tag_name": "Luxemburger Wort",
+      "keywords": "[wort.lu]"
+    },
+    {
+      "tag_name": "Luxury Insider",
+      "keywords": "[luxury-insider.com]"
+    },
+    {
+      "tag_name": "Luxury Travel Magazine",
+      "keywords": "[luxurytravelmagazine.com]"
+    },
+    {
+      "tag_name": "MGN Today",
+      "keywords": "[mgntoday.com]"
+    },
+    {
+      "tag_name": "MIS Asia",
+      "keywords": "[mis-asia.com]"
+    },
+    {
+      "tag_name": "MKRU",
+      "keywords": "[mk.ru]"
+    },
+    {
+      "tag_name": "MStar",
+      "keywords": "[mstar.com.my]"
+    },
+    {
+      "tag_name": "MThai  (เอ็มไทย)",
+      "keywords": "[mthai.com]"
+    },
+    {
+      "tag_name": "Macau Daily Times",
+      "keywords": "[macaudailytimesnews.com]"
+    },
+    {
+      "tag_name": "Macau News",
+      "keywords": "[macaunews.com.mo]"
+    },
+    {
+      "tag_name": "Mail Online",
+      "keywords": "[beatricedailysun.com]"
+    },
+    {
+      "tag_name": "Malaymail Online",
+      "keywords": "[themalaymailonline.com]"
+    },
+    {
+      "tag_name": "Malaysia Today",
+      "keywords": "[malaysia-today.net]"
+    },
+    {
+      "tag_name": "Malaysiabdnews",
+      "keywords": "[malaysiabdnews.com]"
+    },
+    {
+      "tag_name": "Malaysiakini",
+      "keywords": "[malaysiakini.com]"
+    },
+    {
+      "tag_name": "Malaysian Digest",
+      "keywords": "[malaysiandigest.com]"
+    },
+    {
+      "tag_name": "Maleisie Be",
+      "keywords": "[maleisie.be]"
+    },
+    {
+      "tag_name": "Manager Daily",
+      "keywords": "[facebook.com/MGRonlineLive, instagram.com/manager_live, manager.co.th, twitter.com/ASTVManagerLive, youtube.com/user/astvmanagervdo]"
+    },
+    {
+      "tag_name": "Manager Online",
+      "keywords": "[manager.co.th]"
+    },
+    {
+      "tag_name": "Manila Bulletin",
+      "keywords": "[mb.com.ph]"
+    },
+    {
+      "tag_name": "Manila Channel",
+      "keywords": "[manilachannel.com]"
+    },
+    {
+      "tag_name": "Manila Standard",
+      "keywords": "[thestandard.com.ph]"
+    },
+    {
+      "tag_name": "Manorama Online",
+      "keywords": "[manoramaonline.com]"
+    },
+    {
+      "tag_name": "Maplandia",
+      "keywords": "[maplandia.com]"
+    },
+    {
+      "tag_name": "Marcha Nzeiger",
+      "keywords": "[marchanzeiger.ch]"
+    },
+    {
+      "tag_name": "Marir Claire",
+      "keywords": "[marieclairethailand.com]"
+    },
+    {
+      "tag_name": "Market Watch",
+      "keywords": "[facebook.com/marketwatch, marketwatch.com, twitter.com/marketwatch]"
+    },
+    {
+      "tag_name": "Marketeer",
+      "keywords": "[marketeer.co.th]"
+    },
+    {
+      "tag_name": "Marketing Interactive",
+      "keywords": "[marketing-interactive.com]"
+    },
+    {
+      "tag_name": "Marketing Magazine",
+      "keywords": "[marketingmagazine.com.my]"
+    },
+    {
+      "tag_name": "Marketing Qia",
+      "keywords": "[marketingqia.com]"
+    },
+    {
+      "tag_name": "MarketingOops",
+      "keywords": "[marketingoops.com]"
+    },
+    {
+      "tag_name": "Mashable",
+      "keywords": "[facebook.com/MashableAsi, facebook.com/MashableReads, facebook.com/MashableTravel, facebook.com/MashableUK, facebook.com/mashable, facebook.com/mashable.australia, facebook.com/mashable.business, facebook.com/mashable.entertainment, facebook.com/mashable.lifestyle, facebook.com/mashable.news, facebook.com/mashable.socialmedia, facebook.com/mashable.studios, facebook.com/mashable.tech, facebook.com/mashable.video, facebook.com/mashablehq, facebook.com/mashableindia, facebook.com/socialgood, instagram.com/mashable, instagram.com/mashablenews, mashable.com, twitter.com/MashableEvents, twitter.com/MashableFashion, twitter.com/MashableFood, twitter.com/MashableHQ, twitter.com/MashableIndia, twitter.com/MashableNews, twitter.com/MashableScience, twitter.com/MashableTravel, twitter.com/MashableUK, twitter.com/mash_talk, twitter.com/mashable, twitter.com/mashableAU, twitter.com/mashableasia, twitter.com/mashablegif, twitter.com/mashablejobs, twitter.com/mashablemobile, twitter.com/mashabletech, twitter.com/mashablevideo, twitter.com/mashbusiness, twitter.com/mashdevdesign, twitter.com/mashentertain, twitter.com/mashflix, twitter.com/mashlifestyle, twitter.com/mashsocialmedia, twitter.com/mashstartups, twitter.com/socialgood, twitter.com/watercooler, youtube.com/c/MashableNews, youtube.com/channel/UC4BAyz98GyC6-aUGHQBbfVQ, youtube.com/channel/UCEOF4bvzHLzo6kBz-kfGdGQ, youtube.com/user/TheWatercooler, youtube.com/user/mashable]"
+    },
+    {
+      "tag_name": "Matichon",
+      "keywords": "[matichon.co.th]"
+    },
+    {
+      "tag_name": "Maxit Online",
+      "keywords": "[maxit.com.my]"
+    },
+    {
+      "tag_name": "Mayanmar Cuties",
+      "keywords": "[myanmarcuties.com]"
+    },
+    {
+      "tag_name": "Mayanmar Gazette",
+      "keywords": "[mandalaygazette.com]"
+    },
+    {
+      "tag_name": "Medan Bisnis",
+      "keywords": "[medanbisnisdaily.com]"
+    },
+    {
+      "tag_name": "Media Indonesia",
+      "keywords": "[mediaindonesia.com]"
+    },
+    {
+      "tag_name": "Media Relations & Event Management",
+      "keywords": "[mrem.bernama.com]"
+    },
+    {
+      "tag_name": "Mediacorp",
+      "keywords": "[mediacorp.sg]"
+    },
+    {
+      "tag_name": "Medianama",
+      "keywords": "[medianama.com]"
+    },
+    {
+      "tag_name": "Memeorandum",
+      "keywords": "[memeorandum.com]"
+    },
+    {
+      "tag_name": "Merdeka",
+      "keywords": "[facebook.com/MDKcom, instagram.com/merdekadotcom, merdeka.com, twitter.com/merdekadotcom, youtube.com/channel/UCdOovgmIPfj9a-o3VP5i2_g]"
+    },
+    {
+      "tag_name": "Metro",
+      "keywords": "[metro.co.uk]"
+    },
+    {
+      "tag_name": "Metro Balikpapan",
+      "keywords": "[balikpapanpos.co.id]"
+    },
+    {
+      "tag_name": "Metro Batam",
+      "keywords": "[metrobatam.com]"
+    },
+    {
+      "tag_name": "Metro Jambi",
+      "keywords": "[metrojambi.com]"
+    },
+    {
+      "tag_name": "Metro Siantar",
+      "keywords": "[metrosiantar.com]"
+    },
+    {
+      "tag_name": "Metro TV",
+      "keywords": "[metrotvnews.com]"
+    },
+    {
+      "tag_name": "Micenet Aus",
+      "keywords": "[mice.net.au]"
+    },
+    {
+      "tag_name": "Middle East Insurance Review",
+      "keywords": "[meinsurancereview.com]"
+    },
+    {
+      "tag_name": "Mildurai Independent",
+      "keywords": "[milduraindependent.com]"
+    },
+    {
+      "tag_name": "Military Technology",
+      "keywords": "[monch.com, twitter.com/miltech1]"
+    },
+    {
+      "tag_name": "Mindano Times",
+      "keywords": "[mindanaotimes.net]"
+    },
+    {
+      "tag_name": "Ming Pao",
+      "keywords": "[mingpao.com]"
+    },
+    {
+      "tag_name": "Mingalbar",
+      "keywords": "[minglabar.net]"
+    },
+    {
+      "tag_name": "Mingapao (明報即時新聞)",
+      "keywords": "[mingpao.com]"
+    },
+    {
+      "tag_name": "MintAsia",
+      "keywords": "[epaper.livemint.com]"
+    },
+    {
+      "tag_name": "Mirrorless Rumors",
+      "keywords": "[mirrorlessrumors.com]"
+    },
+    {
+      "tag_name": "Mizzima",
+      "keywords": "[mizzima.com]"
+    },
+    {
+      "tag_name": "MobileDista",
+      "keywords": "[mobiledista.com]"
+    },
+    {
+      "tag_name": "MoeMaka",
+      "keywords": "[moemaka.net]"
+    },
+    {
+      "tag_name": "Money Digest",
+      "keywords": "[moneydigest.sg]"
+    },
+    {
+      "tag_name": "Money Morning",
+      "keywords": "[moneymorning.com]"
+    },
+    {
+      "tag_name": "Mothership",
+      "keywords": "[mothership.sg]"
+    },
+    {
+      "tag_name": "Motor Trend",
+      "keywords": "[motortrend.com]"
+    },
+    {
+      "tag_name": "Motor1",
+      "keywords": "[worldcarfans.com]"
+    },
+    {
+      "tag_name": "MotorBeam",
+      "keywords": "[MotorBeam, instagram.com/motorbeam, motorbeam, motorbeam.com, youtube.com/c/motorbeam]"
+    },
+    {
+      "tag_name": "MotorMe",
+      "keywords": "[motorme.my]"
+    },
+    {
+      "tag_name": "MotorSport",
+      "keywords": "[motorsport.com]"
+    },
+    {
+      "tag_name": "Motoroctane",
+      "keywords": "[facebook.com/MotorOctane, instagram.com/MotorOctane, motoroctane.com, twitter.com/MotorOctane, youtube.com/user/MotorOctane]"
+    },
+    {
+      "tag_name": "Motortrivia",
+      "keywords": "[motortrivia.com]"
+    },
+    {
+      "tag_name": "Motown India",
+      "keywords": "[MotownIndia, facebook.com/MotownIndia, motownindia.com, twitter.com/MotownIndia, youtube.com/c/motownindia]"
+    },
+    {
+      "tag_name": "Mumbrella",
+      "keywords": "[mumbrella.com.au]"
+    },
+    {
+      "tag_name": "My Sarawak",
+      "keywords": "[mysarawak.org]"
+    },
+    {
+      "tag_name": "My Sunshine Coast",
+      "keywords": "[mysunshinecoast.com.au]"
+    },
+    {
+      "tag_name": "MyPaper",
+      "keywords": "[mypaper.sg]"
+    },
+    {
+      "tag_name": "Myanmar Breaking News",
+      "keywords": "[myanbnews.com]"
+    },
+    {
+      "tag_name": "Myanmar Business Network",
+      "keywords": "[myanmar-business.org]"
+    },
+    {
+      "tag_name": "Myanmar Business News",
+      "keywords": "[myanmarbusinessnews.com]"
+    },
+    {
+      "tag_name": "Myanmar Business Today",
+      "keywords": "[mmbiztoday.com]"
+    },
+    {
+      "tag_name": "Myanmar Insider",
+      "keywords": "[myanmarinsider.com]"
+    },
+    {
+      "tag_name": "Myanmar News Links",
+      "keywords": "[myanmarnewslinks.blogspot.com]"
+    },
+    {
+      "tag_name": "Myanmar News.Net",
+      "keywords": "[myanmarnews.net]"
+    },
+    {
+      "tag_name": "Myanmar Online News",
+      "keywords": "[myanmaronlinenew.com]"
+    },
+    {
+      "tag_name": "Myanmar Times",
+      "keywords": "[mmtimes.com]"
+    },
+    {
+      "tag_name": "Myanmar Today",
+      "keywords": "[myanmartodaynews.com]"
+    },
+    {
+      "tag_name": "MyanmarSpectrum",
+      "keywords": "[myanmarspectrum.org]"
+    },
+    {
+      "tag_name": "Myanmore",
+      "keywords": "[myanmore.com]"
+    },
+    {
+      "tag_name": "Mysinchew",
+      "keywords": "[mysinchew.com]"
+    },
+    {
+      "tag_name": "NBC",
+      "keywords": "[nbcnews.com, nbcnewyork.com]"
+    },
+    {
+      "tag_name": "NDTV",
+      "keywords": "[ndtv, ndtv.com]"
+    },
+    {
+      "tag_name": "NDTV Auto",
+      "keywords": "[auto.ndtv.com]"
+    },
+    {
+      "tag_name": "NEWS 2",
+      "keywords": "[counton2.com]"
+    },
+    {
+      "tag_name": "NEWS LTN",
+      "keywords": "[ltn.com.tw]"
+    },
+    {
+      "tag_name": "NEWS ON JAPAN.COM",
+      "keywords": "[newsonjapan.com]"
+    },
+    {
+      "tag_name": "NEWS talk",
+      "keywords": "[newstalk870.am]"
+    },
+    {
+      "tag_name": "NG",
+      "keywords": "[ng.ru]"
+    },
+    {
+      "tag_name": "NHK Online",
+      "keywords": "[nhk.or.jp]"
+    },
+    {
+      "tag_name": "NIKKEI",
+      "keywords": "[facebook.com/nikkeiasianreview, nikkei.com, twitter.com/NAR, youtube.com/user/NikkeiAsia]"
+    },
+    {
+      "tag_name": "NPR",
+      "keywords": "[facebook.com/nprpolitics, instagram.com/npr, npr.org, twitter.com/npr, youtube.com/user/npr]"
+    },
+    {
+      "tag_name": "NZZ Neue Zürcher Zeitung",
+      "keywords": "[nzz.ch]"
+    },
+    {
+      "tag_name": "Nachirichten Schweiz",
+      "keywords": "[1nachrichten.ch]"
+    },
+    {
+      "tag_name": "Nanalyse",
+      "keywords": "[nanalyze.com]"
+    },
+    {
+      "tag_name": "Nanyang Post",
+      "keywords": "[sg.nanyangpost.com]"
+    },
+    {
+      "tag_name": "Nanyang Si ang Pau",
+      "keywords": "[enanyang.my, facebook.com/nanyang.nysp, instagram.com/enanyang, twitter.com/nanyangpress]"
+    },
+    {
+      "tag_name": "Nanyang Siang Pau",
+      "keywords": "[nanyang.com]"
+    },
+    {
+      "tag_name": "Nasdaq Globenewswire",
+      "keywords": "[globenewswire.com]"
+    },
+    {
+      "tag_name": "Nation Weekend",
+      "keywords": "[nationweekend.com]"
+    },
+    {
+      "tag_name": "National Geographic",
+      "keywords": "[nationalgeographic.co.id]"
+    },
+    {
+      "tag_name": "Nationtv",
+      "keywords": "[nationtv.tv]"
+    },
+    {
+      "tag_name": "Neva News",
+      "keywords": "[nevanews.com]"
+    },
+    {
+      "tag_name": "New Indian Express",
+      "keywords": "[newindianexpress.com]"
+    },
+    {
+      "tag_name": "New Matilda",
+      "keywords": "[facebook.com/New-Matilda-23703068834, newmatilda.com, twitter.com/newmatilda, youtube.com/channel/UCTVV2EzPF3XxHbGrvNWNIew]"
+    },
+    {
+      "tag_name": "New Newspaper",
+      "keywords": "[novayagazeta.ru]"
+    },
+    {
+      "tag_name": "New Sabah Times",
+      "keywords": "[newsabahtimes.com.my]"
+    },
+    {
+      "tag_name": "New Sarawak Tribune",
+      "keywords": "[newsarawaktribune.com]"
+    },
+    {
+      "tag_name": "New Scientist",
+      "keywords": "[facebook.com/newscientist, newscientist.com, twitter.com/newscientist]"
+    },
+    {
+      "tag_name": "New Strait Times",
+      "keywords": "[nst.com.my]"
+    },
+    {
+      "tag_name": "New York Daily News",
+      "keywords": "[nydailynews.com]"
+    },
+    {
+      "tag_name": "New York Post",
+      "keywords": "[nypost.com]"
+    },
+    {
+      "tag_name": "New Zealand Herald",
+      "keywords": "[nzherald.co.nz]"
+    },
+    {
+      "tag_name": "Newnation",
+      "keywords": "[newnation.sg]"
+    },
+    {
+      "tag_name": "News World India",
+      "keywords": "[newsworldindia.in]"
+    },
+    {
+      "tag_name": "NewsLiner",
+      "keywords": "[newsliner.in]"
+    },
+    {
+      "tag_name": "NewsMediaWorks",
+      "keywords": "[thenewspaperworks.com.au]"
+    },
+    {
+      "tag_name": "NewsR.in",
+      "keywords": "[newsr.in]"
+    },
+    {
+      "tag_name": "Newsbud",
+      "keywords": "[boilingfrogspost.com]"
+    },
+    {
+      "tag_name": "Newser",
+      "keywords": "[newser.com]"
+    },
+    {
+      "tag_name": "Newsweek",
+      "keywords": "[europe.newsweek.com, facebook.com/newsweekeurope, twitter.com/Newsweek_INT]"
+    },
+    {
+      "tag_name": "Newswit",
+      "keywords": "[newswit.com]"
+    },
+    {
+      "tag_name": "Nguoi Dua Tin",
+      "keywords": "[nguoiduatin.vn]"
+    },
+    {
+      "tag_name": "Nguoi Lao Dong",
+      "keywords": "[nld.com.vn]"
+    },
+    {
+      "tag_name": "Nguoi-Viet",
+      "keywords": "[nguoi-viet.com]"
+    },
+    {
+      "tag_name": "North Korea Times",
+      "keywords": "[northkoreatimes.com]"
+    },
+    {
+      "tag_name": "Nosvilles",
+      "keywords": "[nosvilles.ch]"
+    },
+    {
+      "tag_name": "Novosthi Phuketa",
+      "keywords": "[novostiphuketa.com]"
+    },
+    {
+      "tag_name": "Novosti",
+      "keywords": "[novosti.spb.ru]"
+    },
+    {
+      "tag_name": "Nydus",
+      "keywords": "[nydus.org]"
+    },
+    {
+      "tag_name": "OAKLAND PRESS",
+      "keywords": "[theoaklandpress.com]"
+    },
+    {
+      "tag_name": "OHS Daily",
+      "keywords": "[ohsdaily.com.au]"
+    },
+    {
+      "tag_name": "OMY",
+      "keywords": "[omy.sg]"
+    },
+    {
+      "tag_name": "Oclarim",
+      "keywords": "[oclarim.com.mo]"
+    },
+    {
+      "tag_name": "Oh My News",
+      "keywords": "[ohmynews.com]"
+    },
+    {
+      "tag_name": "Okezone",
+      "keywords": "[facebook.com/OkezoneCom, instagram.com/okezonecom, okezone.com, twitter.com/okezonenews, youtube.com/user/okezoneindonesia]"
+    },
+    {
+      "tag_name": "OnScreen Asia",
+      "keywords": "[onscreenasia.com]"
+    },
+    {
+      "tag_name": "One India",
+      "keywords": "[oneindia.com]"
+    },
+    {
+      "tag_name": "Onedior",
+      "keywords": "[onedio.com]"
+    },
+    {
+      "tag_name": "Onovasi",
+      "keywords": "[inovasi.com]"
+    },
+    {
+      "tag_name": "Orient Aviation",
+      "keywords": "[orientaviation.com, twitter.com/orientaviation]"
+    },
+    {
+      "tag_name": "Orient Daily",
+      "keywords": "[orientaldaily.on]"
+    },
+    {
+      "tag_name": "Oriental Daily",
+      "keywords": "[facebook.com/OrientalDailyNewsMalaysia, twitter.com/ODNMalaysia]"
+    },
+    {
+      "tag_name": "Otago Daily Times",
+      "keywords": "[odt.co.nz]"
+    },
+    {
+      "tag_name": "Outlook India",
+      "keywords": "[outlookindia.com]"
+    },
+    {
+      "tag_name": "Overdrive",
+      "keywords": "[facebook.com/odmag, overdrive.in, twitter.com/odmag, youtube.com/user/odmag]"
+    },
+    {
+      "tag_name": "Overseas Chinese Daily News",
+      "keywords": "[ocdn.com.my]"
+    },
+    {
+      "tag_name": "PC Magazin",
+      "keywords": "[pc-magazin.de]"
+    },
+    {
+      "tag_name": "PCMagazine",
+      "keywords": "[pcmag.com]"
+    },
+    {
+      "tag_name": "PHYS.ORG",
+      "keywords": "[facebook.com/physorg, phys.org, twitter.com/physorg_com]"
+    },
+    {
+      "tag_name": "PR Newswire",
+      "keywords": "[prnewswire.com, prnewswire.mediaroom.com]"
+    },
+    {
+      "tag_name": "PRBuffet",
+      "keywords": "[prbuffet.com]"
+    },
+    {
+      "tag_name": "PRI",
+      "keywords": "[pri.org]"
+    },
+    {
+      "tag_name": "PRODUCT DESIGN & DEVELOPMENT",
+      "keywords": "[pddnet.com]"
+    },
+    {
+      "tag_name": "PRTimes",
+      "keywords": "[prtimes.jp]"
+    },
+    {
+      "tag_name": "PRsociety",
+      "keywords": "[prsociety.net]"
+    },
+    {
+      "tag_name": "PRvariety",
+      "keywords": "[prvariety.net]"
+    },
+    {
+      "tag_name": "Page Six",
+      "keywords": "[pagesix.com]"
+    },
+    {
+      "tag_name": "Parliamentary Newspaper",
+      "keywords": "[pnp.ru]"
+    },
+    {
+      "tag_name": "Patani News",
+      "keywords": "[pataninews.net]"
+    },
+    {
+      "tag_name": "Pattaya Blat",
+      "keywords": "[pattayablatt.com]"
+    },
+    {
+      "tag_name": "Pattaya Daily News",
+      "keywords": "[facebook.com/pdnfanpage, pattayadailynews.com, twitter.com/PDNNEWS, youtube.com/user/PDNvdo]"
+    },
+    {
+      "tag_name": "Pattaya Mail",
+      "keywords": "[pattayamail.com]"
+    },
+    {
+      "tag_name": "Pattaya Today",
+      "keywords": "[facebook.com/PattayaTodayNewspaper, instagram.com/pattayatoday, pattayatoday.net, twitter.com/pattaya_today, youtube.com/channel/UCVhNlsVmk8mEU1mMZQtCusA]"
+    },
+    {
+      "tag_name": "Payload Asia",
+      "keywords": "[facebook.com/payloadasia, payloadasia.com, twitter.com/payloadasia]"
+    },
+    {
+      "tag_name": "Payment Navi",
+      "keywords": "[paymentnavi.com]"
+    },
+    {
+      "tag_name": "Peanuts Daily",
+      "keywords": "[peanutsdaily.com]"
+    },
+    {
+      "tag_name": "Pedestrian TV",
+      "keywords": "[facebook.com/pedestriandottv, instagram.com/pedestriantv, pedestrian.tv, twitter.com/pedestriandaily, youtube.com/user/pedestriantv]"
+    },
+    {
+      "tag_name": "People.com",
+      "keywords": "[people.com.cn]"
+    },
+    {
+      "tag_name": "Peoples Daily",
+      "keywords": "[en.people.cn, facebook.com/PeoplesDaily, instagram.com/peoples_daily, twitter.com/PDChina, youtube.com/user/PeoplesDailyonline]"
+    },
+    {
+      "tag_name": "Perth Now",
+      "keywords": "[perthnow.com.au]"
+    },
+    {
+      "tag_name": "PharmaAsia",
+      "keywords": "[pharmaasia.com]"
+    },
+    {
+      "tag_name": "PhilNews",
+      "keywords": "[philnews.com]"
+    },
+    {
+      "tag_name": "Philippine News",
+      "keywords": "[philnews.ph]"
+    },
+    {
+      "tag_name": "Philippine Times",
+      "keywords": "[philippinetimes.com]"
+    },
+    {
+      "tag_name": "Philstar",
+      "keywords": "[philstar.com]"
+    },
+    {
+      "tag_name": "Pho Thu Taw",
+      "keywords": "[phothutaw.com]"
+    },
+    {
+      "tag_name": "Phuket Gazette",
+      "keywords": "[phuketgazette.net]"
+    },
+    {
+      "tag_name": "Pikiran Rakyat",
+      "keywords": "[pikiran-rakyat.com]"
+    },
+    {
+      "tag_name": "Pimthaionline",
+      "keywords": "[pimthaionline.com]"
+    },
+    {
+      "tag_name": "Planetlemans",
+      "keywords": "[planetlemans.com]"
+    },
+    {
+      "tag_name": "Pojoksatu",
+      "keywords": "[pojoksatu.id]"
+    },
+    {
+      "tag_name": "Popspoken",
+      "keywords": "[popspoken.com]"
+    },
+    {
+      "tag_name": "Pos Belitung",
+      "keywords": "[posbelitung.com]"
+    },
+    {
+      "tag_name": "PosKota News",
+      "keywords": "[poskotanews.com]"
+    },
+    {
+      "tag_name": "Positioning",
+      "keywords": "[positioningmag.com]"
+    },
+    {
+      "tag_name": "Post Today",
+      "keywords": "[facebook.com/Posttoday, instagram.com/posttoday_online, posttoday.com, twitter.com/PostToday]"
+    },
+    {
+      "tag_name": "PostToday",
+      "keywords": "[posttoday.com]"
+    },
+    {
+      "tag_name": "Pradesh18",
+      "keywords": "[english.pradesh18.com]"
+    },
+    {
+      "tag_name": "Praew",
+      "keywords": "[praew.com]"
+    },
+    {
+      "tag_name": "Press Release",
+      "keywords": "[aec.gov.au, aph.gov.au, bca.org.au, cfmeu.org.au, commerce.gov.mm, designsingapore.org, edb.gov.sg, elong.investorroom.com, gov.sg, iproperty.com.sg, malcolmturnbull.com.au, mit.com.mm, mnd.gov.sg, mot.gov.sg, news.gov.hk, nhandan.org.vn, nikon.com, nps.org.au, ntuc.org, nus.edu.sg, paultan.org, pm.gov.au, psnews.com.au, singstat.gov.sg, smu.edu.sg, srsc.org.sg, tnl.gov.la]"
+    },
+    {
+      "tag_name": "Pressian",
+      "keywords": "[pressian.com]"
+    },
+    {
+      "tag_name": "Proactive Investors",
+      "keywords": "[proactiveinvestors.com.au]"
+    },
+    {
+      "tag_name": "QT",
+      "keywords": "[qt.com.au]"
+    },
+    {
+      "tag_name": "Qatar Daily Star",
+      "keywords": "[qatardailystar.com]"
+    },
+    {
+      "tag_name": "Qatar Express",
+      "keywords": "[qatarpress.qa]"
+    },
+    {
+      "tag_name": "Qatar Today",
+      "keywords": "[qatartodayonline.com]"
+    },
+    {
+      "tag_name": "Quartz",
+      "keywords": "[facebook.com/quartznews, qz.com, twitter.com/qz]"
+    },
+    {
+      "tag_name": "REITSWEEK",
+      "keywords": "[facebook.com/ReitsWeek, reitsweek.com, twitter.com/Reitsweek]"
+    },
+    {
+      "tag_name": "RFI",
+      "keywords": "[en.rfi.fr]"
+    },
+    {
+      "tag_name": "RIOT ACT",
+      "keywords": "[the-riotact.com]"
+    },
+    {
+      "tag_name": "RT news",
+      "keywords": "[rt.com]"
+    },
+    {
+      "tag_name": "RTHK.HK",
+      "keywords": "[rthk.hk]"
+    },
+    {
+      "tag_name": "RYT9",
+      "keywords": "[ryt9.com]"
+    },
+    {
+      "tag_name": "Radar Bogor",
+      "keywords": "[radarbogor.id]"
+    },
+    {
+      "tag_name": "Radarbanten Online",
+      "keywords": "[radarbanten.co.id]"
+    },
+    {
+      "tag_name": "Radio Free Asia",
+      "keywords": "[rfa.org]"
+    },
+    {
+      "tag_name": "Radio NZ(RNZ)",
+      "keywords": "[radionz.co.nz]"
+    },
+    {
+      "tag_name": "Rakyat Merdeka Online",
+      "keywords": "[rmol.co]"
+    },
+    {
+      "tag_name": "Rakyatku",
+      "keywords": "[rakyatku.com]"
+    },
+    {
+      "tag_name": "Rapid News",
+      "keywords": "[rapidnewsnetwork.com]"
+    },
+    {
+      "tag_name": "Rappler Indonesia",
+      "keywords": "[rappler.com]"
+    },
+    {
+      "tag_name": "Real News Australia",
+      "keywords": "[realnewsaustralia.com]"
+    },
+    {
+      "tag_name": "Recode",
+      "keywords": "[facebook.com/RecodeDotNet, recode.net, twitter.com/Recode]"
+    },
+    {
+      "tag_name": "Redstar",
+      "keywords": "[redstar.ru]"
+    },
+    {
+      "tag_name": "Refinery29",
+      "keywords": "[refinery29.com]"
+    },
+    {
+      "tag_name": "RepublikaOnline",
+      "keywords": "[republika.co.id]"
+    },
+    {
+      "tag_name": "Reuters",
+      "keywords": "[facebook.com/Reuters, instagram.com/reuters, reuters.com, twitter.com/reuters, youtube.com/user/ReutersVideo]"
+    },
+    {
+      "tag_name": "Reuters India",
+      "keywords": "[facebook.com/india.reuters, in.reuters.com, twitter.com/ReutersIndia]"
+    },
+    {
+      "tag_name": "Riau Editor",
+      "keywords": "[riaueditor.com]"
+    },
+    {
+      "tag_name": "Riau Pos",
+      "keywords": "[riaupos.co]"
+    },
+    {
+      "tag_name": "Robohub",
+      "keywords": "[facebook.com/Robohuborg, robohub.org, twitter.com/Robohub, youtube.com/robohuborg]"
+    },
+    {
+      "tag_name": "RocketNews24",
+      "keywords": "[rocketnews24.com]"
+    },
+    {
+      "tag_name": "Rolling Stone India",
+      "keywords": "[rollingstoneindia.com]"
+    },
+    {
+      "tag_name": "Roosevelt Institute",
+      "keywords": "[rooseveltinstitute.org]"
+    },
+    {
+      "tag_name": "Rushlane",
+      "keywords": "[facebook.com/rushlane, rushlane.com, youtube.com/user/sagar112]"
+    },
+    {
+      "tag_name": "Russia Herald",
+      "keywords": "[russiaherald.com]"
+    },
+    {
+      "tag_name": "Ryazan",
+      "keywords": "[rv-ryazan.ru]"
+    },
+    {
+      "tag_name": "S&P Global Platts",
+      "keywords": "[platts.com]"
+    },
+    {
+      "tag_name": "SBS Australia",
+      "keywords": "[facebook.com/SBSAustralia, instagram.com/sbs_australia, sbs.com.au, twitter.com/SBS]"
+    },
+    {
+      "tag_name": "SFGATE",
+      "keywords": "[sfgate.com]"
+    },
+    {
+      "tag_name": "SGZT",
+      "keywords": "[sgzt.com]"
+    },
+    {
+      "tag_name": "SINDO News",
+      "keywords": "[sindonews.com]"
+    },
+    {
+      "tag_name": "SME & Entrepreneurship Magazine",
+      "keywords": "[facebook.com/timesofoman, timesofoman.com, twitter.com/timesofoman]"
+    },
+    {
+      "tag_name": "SMEAKER",
+      "keywords": "[smeaker.com]"
+    },
+    {
+      "tag_name": "SP Aviation",
+      "keywords": "[800goodjet.com]"
+    },
+    {
+      "tag_name": "STV",
+      "keywords": "[stv.tv]"
+    },
+    {
+      "tag_name": "SWA",
+      "keywords": "[swa.co.id]"
+    },
+    {
+      "tag_name": "ScandAsia.com",
+      "keywords": "[facebook.com/ScandAsiaThailand, scandasia.com]"
+    },
+    {
+      "tag_name": "Schizophrenia",
+      "keywords": "[schizophrenia.com]"
+    },
+    {
+      "tag_name": "Science Bulletin",
+      "keywords": "[facebook.com/sciencebulletin, sciencebulletin.org, twitter.com/BulletinScience]"
+    },
+    {
+      "tag_name": "Science Daily",
+      "keywords": "[newsdaily.com]"
+    },
+    {
+      "tag_name": "Scoop",
+      "keywords": "[scoop.co.nz, scoopasia.com]"
+    },
+    {
+      "tag_name": "Seatrade Maritime",
+      "keywords": "[facebook.com/SeatradeGlobal, seatrade-maritime.com, twitter.com/Seatrade]"
+    },
+    {
+      "tag_name": "See Hua",
+      "keywords": "[seehua.com]"
+    },
+    {
+      "tag_name": "See Hua Daily News",
+      "keywords": "[news.seehua.com]"
+    },
+    {
+      "tag_name": "Selling World Travel",
+      "keywords": "[emmindia.com]"
+    },
+    {
+      "tag_name": "Serambi News",
+      "keywords": "[aceh.tribunnews.com]"
+    },
+    {
+      "tag_name": "Shangbao Indonesia",
+      "keywords": "[shangbaoindonesia.com]"
+    },
+    {
+      "tag_name": "Shanghai Daily",
+      "keywords": "[shanghaidaily.com]"
+    },
+    {
+      "tag_name": "Shanghai Sun",
+      "keywords": "[shanghaisun.com]"
+    },
+    {
+      "tag_name": "Shares Investment",
+      "keywords": "[sharesinv.com]"
+    },
+    {
+      "tag_name": "Shin Min Daily News",
+      "keywords": "[facebook.com/shinmindailynewsxinmingribao, shinmin.sg]"
+    },
+    {
+      "tag_name": "Siam PR",
+      "keywords": "[siampr.net]"
+    },
+    {
+      "tag_name": "Siam Turakij",
+      "keywords": "[siamturakij.com]"
+    },
+    {
+      "tag_name": "SiamPhone",
+      "keywords": "[siamphone.com]"
+    },
+    {
+      "tag_name": "Simply Her",
+      "keywords": "[herworldplus.com]"
+    },
+    {
+      "tag_name": "Sin Chew Daily My Kampung",
+      "keywords": "[mykampung.sinchew.com.my]"
+    },
+    {
+      "tag_name": "Sina.com",
+      "keywords": "[sina.com.cn]"
+    },
+    {
+      "tag_name": "Sinar Harian",
+      "keywords": "[facebook.com/SinarHarian, instagram.com/sinaronline, sinarharian.com.my, youtube.com/user/SinarHarianWebTV]"
+    },
+    {
+      "tag_name": "Sinar Pagi News",
+      "keywords": "[sinarpaginews.com]"
+    },
+    {
+      "tag_name": "Sinchew",
+      "keywords": "[retailingtoday.com]"
+    },
+    {
+      "tag_name": "Singapore Business Review",
+      "keywords": "[sbr.com.sg]"
+    },
+    {
+      "tag_name": "Singapore Government News",
+      "keywords": "[app.contify.com]"
+    },
+    {
+      "tag_name": "Singapore Reporter",
+      "keywords": "[singaporereporter.net]"
+    },
+    {
+      "tag_name": "Singapore Stock Market News",
+      "keywords": "[facebook.com/StockfanaticStockMarketNews, singaporestockmarketnews.com]"
+    },
+    {
+      "tag_name": "Singaporenews",
+      "keywords": "[singaporenews.net]"
+    },
+    {
+      "tag_name": "Sisain",
+      "keywords": "[sisainlive.com]"
+    },
+    {
+      "tag_name": "Sky News",
+      "keywords": "[skynews.com]"
+    },
+    {
+      "tag_name": "Sobesednik",
+      "keywords": "[sobesednik.ru]"
+    },
+    {
+      "tag_name": "Soha",
+      "keywords": "[soha.vn]"
+    },
+    {
+      "tag_name": "Sohu",
+      "keywords": "[sohu.com]"
+    },
+    {
+      "tag_name": "Solidaritas.net",
+      "keywords": "[solidaritas.net]"
+    },
+    {
+      "tag_name": "Sonoran Weekly Review",
+      "keywords": "[sonoranweeklyreview.com]"
+    },
+    {
+      "tag_name": "South Asia Investor Review",
+      "keywords": "[southasiainvestor.blogspot.sg]"
+    },
+    {
+      "tag_name": "South China Morning Post (SCMP)",
+      "keywords": "[facebook.com/southchinamorningpost, scmp.com, twitter.com/scmp_news]"
+    },
+    {
+      "tag_name": "Soviet Sport",
+      "keywords": "[sovsport.ru]"
+    },
+    {
+      "tag_name": "Speednews",
+      "keywords": "[facebook.com/SpeedNews, speednews.com, twitter.com/SpeedNewsConf]"
+    },
+    {
+      "tag_name": "Spiegel Online",
+      "keywords": "[spiegel.de]"
+    },
+    {
+      "tag_name": "Splash 24/7",
+      "keywords": "[splash247.com]"
+    },
+    {
+      "tag_name": "Sportsworldi (스포즈겯드)",
+      "keywords": "[sportsworldi.com]"
+    },
+    {
+      "tag_name": "Spring News",
+      "keywords": "[springnews.co.th]"
+    },
+    {
+      "tag_name": "Star2",
+      "keywords": "[star2.com]"
+    },
+    {
+      "tag_name": "State Times",
+      "keywords": "[statetimes.in]"
+    },
+    {
+      "tag_name": "States Times Review",
+      "keywords": "[statestimesreview.com]"
+    },
+    {
+      "tag_name": "Stern",
+      "keywords": "[stern.de]"
+    },
+    {
+      "tag_name": "Stockholm News",
+      "keywords": "[stockholmnews.com]"
+    },
+    {
+      "tag_name": "Stomp",
+      "keywords": "[facebook.com/straitstimes.stomp, stomp.com.sg, twitter.com/stompsingapore, youtube.com/channel/UCCsmCeSDENJ1UBk1QPT57xQ]"
+    },
+    {
+      "tag_name": "Straits Times Stomp",
+      "keywords": "[singaporeseen.stomp.com.sg]"
+    },
+    {
+      "tag_name": "Stuff",
+      "keywords": "[stuff.co.nz]"
+    },
+    {
+      "tag_name": "Suara",
+      "keywords": "[suara.com]"
+    },
+    {
+      "tag_name": "Suara Pembaruan",
+      "keywords": "[sp.beritasatu.com, suarapembaruan.com]"
+    },
+    {
+      "tag_name": "Sudsapa",
+      "keywords": "[sudsapda.com]"
+    },
+    {
+      "tag_name": "Sueddeutsche Zeitung",
+      "keywords": "[sueddeutsche.de]"
+    },
+    {
+      "tag_name": "Sun Star",
+      "keywords": "[sunstar.com.ph]"
+    },
+    {
+      "tag_name": "SundayGuardian",
+      "keywords": "[sunday-guardian.com, sundayguardianlive.com]"
+    },
+    {
+      "tag_name": "Sunshine Coast Daily",
+      "keywords": "[sunshinecoastdaily.com.au]"
+    },
+    {
+      "tag_name": "Surabaya News",
+      "keywords": "[surabayanews.co.id]"
+    },
+    {
+      "tag_name": "Suramerdeka",
+      "keywords": "[suaramerdeka.com]"
+    },
+    {
+      "tag_name": "Surya",
+      "keywords": "[surabaya.tribunnews.com]"
+    },
+    {
+      "tag_name": "Swedish Wire",
+      "keywords": "[swedishwire.com]"
+    },
+    {
+      "tag_name": "Swissinfo",
+      "keywords": "[swissinfo.ch]"
+    },
+    {
+      "tag_name": "Syracuse",
+      "keywords": "[syracuse.com]"
+    },
+    {
+      "tag_name": "T-SITE",
+      "keywords": "[top.tsite.jp]"
+    },
+    {
+      "tag_name": "TINMOI",
+      "keywords": "[tinmoi.vn]"
+    },
+    {
+      "tag_name": "TNN24",
+      "keywords": "[tnnthailand.com]"
+    },
+    {
+      "tag_name": "TRUTH NEWS",
+      "keywords": "[truthnews.com.au]"
+    },
+    {
+      "tag_name": "TTG",
+      "keywords": "[ttgasia.com, ttgmedia.com]"
+    },
+    {
+      "tag_name": "TTG China",
+      "keywords": "[herald-review.com, ttgchina.com]"
+    },
+    {
+      "tag_name": "TTG India",
+      "keywords": "[ttgindia.travel]"
+    },
+    {
+      "tag_name": "TV Guide",
+      "keywords": "[tvguide.co.uk]"
+    },
+    {
+      "tag_name": "Tagblatt",
+      "keywords": "[badenertagblatt.ch]"
+    },
+    {
+      "tag_name": "TagesWoche",
+      "keywords": "[tageswoche.ch]"
+    },
+    {
+      "tag_name": "Tagesschau.de",
+      "keywords": "[tagesschau.de]"
+    },
+    {
+      "tag_name": "Taipeitimes",
+      "keywords": "[taipeitimes.com]"
+    },
+    {
+      "tag_name": "Taiwan News",
+      "keywords": "[taiwannews.com.tw]"
+    },
+    {
+      "tag_name": "Taiwan Panorama",
+      "keywords": "[taiwan-panorama.com]"
+    },
+    {
+      "tag_name": "Taiwan Sun",
+      "keywords": "[taiwansun.com]"
+    },
+    {
+      "tag_name": "Taiwan Today",
+      "keywords": "[taiwantoday.tw]"
+    },
+    {
+      "tag_name": "Talk Vietnam",
+      "keywords": "[facebook.com/talkvietnambuzz, talkvietnam.com]"
+    },
+    {
+      "tag_name": "Tamil Murasu",
+      "keywords": "[tamilmurasu.com.sg]"
+    },
+    {
+      "tag_name": "Tat News",
+      "keywords": "[tatnews.org]"
+    },
+    {
+      "tag_name": "Tech & U",
+      "keywords": "[industryweek.com]"
+    },
+    {
+      "tag_name": "Tech Xcite",
+      "keywords": "[techxcite.com]"
+    },
+    {
+      "tag_name": "Tech in Asia",
+      "keywords": "[facebook.com/techinasia, instagram.com/techinasia, techinasia.com, twitter.com/techinasia, youtube.com/user/TechinAsia]"
+    },
+    {
+      "tag_name": "Tech meme",
+      "keywords": "[techmeme.com]"
+    },
+    {
+      "tag_name": "TechProlonged",
+      "keywords": "[techprolonged.com]"
+    },
+    {
+      "tag_name": "Techcrunch",
+      "keywords": "[facebook.com/techcrunch, instagram.com/techcrunch, techcrunch.com, twitter.com/techcrunch, youtube.com/user/techcrunch]"
+    },
+    {
+      "tag_name": "Technology Org",
+      "keywords": "[facebook.com/TechnologyOrg, technology.org, twitter.com/TechnologyOrg]"
+    },
+    {
+      "tag_name": "Techseen",
+      "keywords": "[techseen.com]"
+    },
+    {
+      "tag_name": "Tele7",
+      "keywords": "[tele7.nsk.su]"
+    },
+    {
+      "tag_name": "Telecompaper",
+      "keywords": "[telecompaper.com]"
+    },
+    {
+      "tag_name": "Television Post",
+      "keywords": "[televisionpost.com]"
+    },
+    {
+      "tag_name": "Tempo",
+      "keywords": "[tempo.co, tempo.com.ph, tempointeractive.com]"
+    },
+    {
+      "tag_name": "Tempo Magazine",
+      "keywords": "[magz.tempo.co]"
+    },
+    {
+      "tag_name": "Terra",
+      "keywords": "[trkterra.ru]"
+    },
+    {
+      "tag_name": "Thai News Agency (TNA)",
+      "keywords": "[tnamcot.com]"
+    },
+    {
+      "tag_name": "Thai PBS",
+      "keywords": "[thaipbs.or.th]"
+    },
+    {
+      "tag_name": "Thai Travel News",
+      "keywords": "[thaitravelblogs.com]"
+    },
+    {
+      "tag_name": "Thaiandroidphone",
+      "keywords": "[thaiandroidphone.com]"
+    },
+    {
+      "tag_name": "Thailand Business News",
+      "keywords": "[thailand-business-news.com]"
+    },
+    {
+      "tag_name": "Thailand4",
+      "keywords": "[thailand4.com]"
+    },
+    {
+      "tag_name": "Thairath",
+      "keywords": "[thairath.co.th]"
+    },
+    {
+      "tag_name": "Thanh Nien",
+      "keywords": "[thanhnien.com.vn]"
+    },
+    {
+      "tag_name": "Thanhnien News",
+      "keywords": "[thanhniennews.com]"
+    },
+    {
+      "tag_name": "The AU Review",
+      "keywords": "[food.theaureview.com]"
+    },
+    {
+      "tag_name": "The Advertiser",
+      "keywords": "[adelaidenow.com.au]"
+    },
+    {
+      "tag_name": "The Age",
+      "keywords": "[facebook.com/theageAustralia, theage.com.au, twitter.com/theage, wek.ru]"
+    },
+    {
+      "tag_name": "The Assam Tribune",
+      "keywords": "[assamtribune.com]"
+    },
+    {
+      "tag_name": "The Australian",
+      "keywords": "[facebook.com/theaustralian, instagram.com/the.australian, theaustralian.com.au, twitter.com/australian, youtube.com/user/AustralianThe]"
+    },
+    {
+      "tag_name": "The Bali Times",
+      "keywords": "[thebalitimes.com]"
+    },
+    {
+      "tag_name": "The Betoota Advocate",
+      "keywords": "[betootaadvocate.com, facebook.com/betootaadvocate, instagram.com/betootaadvocate, twitter.com/BetootaAdvocate, youtube.com/channel/UC7HpYcGA7O17aS-nGigV0-A]"
+    },
+    {
+      "tag_name": "The Bihar Times",
+      "keywords": "[bihartimes.com]"
+    },
+    {
+      "tag_name": "The Burma Times",
+      "keywords": "[burmatimes.net]"
+    },
+    {
+      "tag_name": "The Campaign",
+      "keywords": "[campaignasia.com]"
+    },
+    {
+      "tag_name": "The Canberra Times",
+      "keywords": "[canberratimes.com.au]"
+    },
+    {
+      "tag_name": "The Checkered Flag",
+      "keywords": "[thecheckeredflag.co.uk]"
+    },
+    {
+      "tag_name": "The China Post",
+      "keywords": "[chinapost.com.tw]"
+    },
+    {
+      "tag_name": "The Conversation",
+      "keywords": "[theconversation.com]"
+    },
+    {
+      "tag_name": "The Courier Mail",
+      "keywords": "[couriermail.com.au, facebook.com/couriermail, twitter.com/couriermail]"
+    },
+    {
+      "tag_name": "The Daily Examiner",
+      "keywords": "[dailyexaminer.com.au]"
+    },
+    {
+      "tag_name": "The Daily Free Press",
+      "keywords": "[dailyfreepress.com]"
+    },
+    {
+      "tag_name": "The Daily Q",
+      "keywords": "[thedailyq.org]"
+    },
+    {
+      "tag_name": "The Daily Tribune",
+      "keywords": "[tribune.net.ph]"
+    },
+    {
+      "tag_name": "The Day After",
+      "keywords": "[dayafterindia.com]"
+    },
+    {
+      "tag_name": "The Echo of India",
+      "keywords": "[echoofindia.com]"
+    },
+    {
+      "tag_name": "The Economic Times",
+      "keywords": "[economictimes.indiatimes.com]"
+    },
+    {
+      "tag_name": "The Economist",
+      "keywords": "[economist.com, facebook.com/TheEconomist, instagram.com/theeconomist, twitter.com/TheEconomist, youtube.com/user/economistmagazine]"
+    },
+    {
+      "tag_name": "The Edge Financial Daily",
+      "keywords": "[theedgemalaysia.com]"
+    },
+    {
+      "tag_name": "The Edge Malaysia",
+      "keywords": "[marketline.com]"
+    },
+    {
+      "tag_name": "The Edge Markets",
+      "keywords": "[facebook.com/theedgemarketssg, instagram.com/the_edge_options, theedgemarkets.com, twitter.com/The_EDGE_SG]"
+    },
+    {
+      "tag_name": "The Edge Singapore",
+      "keywords": "[theedgesingapore.com]"
+    },
+    {
+      "tag_name": "The Edmonton Sun",
+      "keywords": "[edmontonsun.com]"
+    },
+    {
+      "tag_name": "The Express Tribune",
+      "keywords": "[tribune.com.pk]"
+    },
+    {
+      "tag_name": "The Financial Express",
+      "keywords": "[financialexpress.com]"
+    },
+    {
+      "tag_name": "The First Crimean",
+      "keywords": "[1k.com.ua]"
+    },
+    {
+      "tag_name": "The Global New Light of Myanmar",
+      "keywords": "[globalnewlightofmyanmar.com]"
+    },
+    {
+      "tag_name": "The Guardian",
+      "keywords": "[facebook.com/theguardian, facebook.com/theguardianaustralia, instagram.com/guardian, instagram.com/guardianaustralia, theguardian.com, twitter.com/GuardianAus, twitter.com/guardian, youtube.com/channel/UCoWKwd06OC0Y0XpvAa8jfdw, youtube.com/user/TheGuardian]"
+    },
+    {
+      "tag_name": "The Herald Business (헤럴드경제)",
+      "keywords": "[heraldcorp.com]"
+    },
+    {
+      "tag_name": "The Hindu",
+      "keywords": "[thehindu.com, thehindubusinessline.com, thehindulfl.com]"
+    },
+    {
+      "tag_name": "The Hitavada",
+      "keywords": "[ehitavada.com]"
+    },
+    {
+      "tag_name": "The Hokkaido Shimbun Press",
+      "keywords": "[hokkaido-np.co.jp]"
+    },
+    {
+      "tag_name": "The Huffington Post",
+      "keywords": "[facebook.com/HuffPostUK, facebook.com/HuffingtonPost, facebook.com/The-Huffington-Post-Green-225184024188772, huffingtonpost.co.uk, huffingtonpost.com, huffingtonpost.com.au, huffingtonpost.in, instagram.com/huffpostau, twitter.com/HuffPostAU, twitter.com/HuffPostGreen, twitter.com/HuffPostUK, twitter.com/HuffingtonPost, youtube.com/channel/UCGegTtImK5riA59DSQvI8gg]"
+    },
+    {
+      "tag_name": "The Independent",
+      "keywords": "[facebook.com/TheIndependentSG, theindependent.sg, twitter.com/independentsg]"
+    },
+    {
+      "tag_name": "The Irrawaddy",
+      "keywords": "[irrawaddy.org]"
+    },
+    {
+      "tag_name": "The Jakarta Post",
+      "keywords": "[thejakartapost.com]"
+    },
+    {
+      "tag_name": "The Japan Times",
+      "keywords": "[japantimes.co.jp]"
+    },
+    {
+      "tag_name": "The Korea Times",
+      "keywords": "[ktimes.com]"
+    },
+    {
+      "tag_name": "The Local",
+      "keywords": "[thelocal.de, thelocal.se]"
+    },
+    {
+      "tag_name": "The Malay Mail",
+      "keywords": "[mmail.com.my]"
+    },
+    {
+      "tag_name": "The Malay Mail Online",
+      "keywords": "[themalaymailonline.wordpress.com]"
+    },
+    {
+      "tag_name": "The Malaysian Insider",
+      "keywords": "[themalaysianinsider.com]"
+    },
+    {
+      "tag_name": "The Malaysian Reserve",
+      "keywords": "[themalaysianreserve.com]"
+    },
+    {
+      "tag_name": "The Malaysian Times",
+      "keywords": "[themalaysiantimes.com.my]"
+    },
+    {
+      "tag_name": "The Mandarin",
+      "keywords": "[themandarin.com.au]"
+    },
+    {
+      "tag_name": "The Manila Times",
+      "keywords": "[manilatimes.net]"
+    },
+    {
+      "tag_name": "The Mercury",
+      "keywords": "[themercury.com.au]"
+    },
+    {
+      "tag_name": "The Middle Ground",
+      "keywords": "[themiddleground.sg]"
+    },
+    {
+      "tag_name": "The Milli Gazette",
+      "keywords": "[milligazette.com]"
+    },
+    {
+      "tag_name": "The Mirror",
+      "keywords": "[mirror.co.uk]"
+    },
+    {
+      "tag_name": "The Morning Bulletin",
+      "keywords": "[facebook.com/themorningbulletin, themorningbulletin.com.au, twitter.com/the_bully]"
+    },
+    {
+      "tag_name": "The Nation",
+      "keywords": "[facebook.com/NationNews, nationmultimedia.com, twitter.com/nationnews]"
+    },
+    {
+      "tag_name": "The National",
+      "keywords": "[thenational.ae]"
+    },
+    {
+      "tag_name": "The New Daily",
+      "keywords": "[thenewdaily.com.au]"
+    },
+    {
+      "tag_name": "The New Economy",
+      "keywords": "[theneweconomy.com]"
+    },
+    {
+      "tag_name": "The New Paper",
+      "keywords": "[facebook.com/thenewpaper/, instagram.com/thenewpaper/, tnp.sg, twitter.com/thenewpaper]"
+    },
+    {
+      "tag_name": "The New York Times",
+      "keywords": "[facebook.com/nytimes, instagram.com/nytimes, nytimes.com, twitter.com/nytimes, youtube.com/user/TheNewYorkTimes]"
+    },
+    {
+      "tag_name": "The NewYorker",
+      "keywords": "[newyorker.com]"
+    },
+    {
+      "tag_name": "The Northside Chronicle",
+      "keywords": "[thenorthsidechronicle.com]"
+    },
+    {
+      "tag_name": "The Observer",
+      "keywords": "[gladstoneobserver.com.au]"
+    },
+    {
+      "tag_name": "The Oil & Gas Year",
+      "keywords": "[theoilandgasyear.com]"
+    },
+    {
+      "tag_name": "The Onion",
+      "keywords": "[theonion.com]"
+    },
+    {
+      "tag_name": "The Online Citizen",
+      "keywords": "[facebook.com/theonlinecitizen, instagram.com/theonlinecitizen, theonlinecitizen.com, twitter.com/tocsg, youtube.com/user/theonlinecitizen]"
+    },
+    {
+      "tag_name": "The Open Graph Protocol",
+      "keywords": "[opengraphprotocol.org]"
+    },
+    {
+      "tag_name": "The Peak",
+      "keywords": "[thepeakmagazine.com.sg]"
+    },
+    {
+      "tag_name": "The Phuket News",
+      "keywords": "[thephuketnews.com]"
+    },
+    {
+      "tag_name": "The Pioneer",
+      "keywords": "[dailypioneer.com]"
+    },
+    {
+      "tag_name": "The Popular news journal",
+      "keywords": "[popularmyanmar.com]"
+    },
+    {
+      "tag_name": "The President Post",
+      "keywords": "[thepresidentpost.com]"
+    },
+    {
+      "tag_name": "The Rakyat Post",
+      "keywords": "[therakyatpost.com]"
+    },
+    {
+      "tag_name": "The Saturday Paper",
+      "keywords": "[thesaturdaypaper.com.au]"
+    },
+    {
+      "tag_name": "The Seattle Times",
+      "keywords": "[seattletimes.com]"
+    },
+    {
+      "tag_name": "The Shan Herald Agency for News",
+      "keywords": "[english.panglong.org, facebook.com/Panglong.eng]"
+    },
+    {
+      "tag_name": "The Shovel",
+      "keywords": "[theshovel.com.au]"
+    },
+    {
+      "tag_name": "The Singapore Daily",
+      "keywords": "[singaporedaily.net]"
+    },
+    {
+      "tag_name": "The Standard",
+      "keywords": "[thestandard.com.hk]"
+    },
+    {
+      "tag_name": "The Star Online",
+      "keywords": "[facebook.com/TheStarOnline, thestar.com.my, twitter.com/staronline]"
+    },
+    {
+      "tag_name": "The State",
+      "keywords": "[thestate.com]"
+    },
+    {
+      "tag_name": "The Statesman",
+      "keywords": "[thestatesman.com]"
+    },
+    {
+      "tag_name": "The Straits Times",
+      "keywords": "[straitstimes.com]"
+    },
+    {
+      "tag_name": "The Sun Daily",
+      "keywords": "[facebook.com/theSundaily-418407024929742, instagram.com/thesundaily, thesundaily.my, twitter.com/theSundaily]"
+    },
+    {
+      "tag_name": "The Sunday Standard",
+      "keywords": "[expressbuzz.com]"
+    },
+    {
+      "tag_name": "The Sydney Morning Herald",
+      "keywords": "[facebook.com/sydneymorningherald, instagram.com/sydneymorningherald, smh.com.au, youtube.com/channel/UCi-nUi67HVFEtpaFsjRj_NA]"
+    },
+    {
+      "tag_name": "The Tally Room",
+      "keywords": "[tallyroom.com.au]"
+    },
+    {
+      "tag_name": "The Tech Portal",
+      "keywords": "[thetechportal.com]"
+    },
+    {
+      "tag_name": "The Telegraph",
+      "keywords": "[telegraph.co.uk, telegraphindia.com]"
+    },
+    {
+      "tag_name": "The Times",
+      "keywords": "[facebook.com/timesandsundaytimes, instagram.com/thetimes, thetimes.co.uk, twitter.com/thetimes]"
+    },
+    {
+      "tag_name": "The Times of India",
+      "keywords": "[facebook.com/TOIIndianews, timesofindia.com, timesofindia.indiatimes.com, twitter.com/TOIIndiaNews, twitter.com/timesofindia]"
+    },
+    {
+      "tag_name": "The Travel Junkie",
+      "keywords": "[thetraveljunkie.org]"
+    },
+    {
+      "tag_name": "The Tribune",
+      "keywords": "[tribuneindia.com]"
+    },
+    {
+      "tag_name": "The Verge",
+      "keywords": "[facebook.com/verge, theverge.com, twitter.com/verge, youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ]"
+    },
+    {
+      "tag_name": "The Village Voice",
+      "keywords": "[villagevoice.com]"
+    },
+    {
+      "tag_name": "The Voice",
+      "keywords": "[thevoicemyanmar.com]"
+    },
+    {
+      "tag_name": "The Wall Street Journal",
+      "keywords": "[facebook.com/wsj, instagram.com/wsj, twitter.com/WSJ, wsj.com, wsjonline.com, youtube.com/user/WSJDigitalNetwork]"
+    },
+    {
+      "tag_name": "The Wall Street Journal Chinese",
+      "keywords": "[chinese.wsj.com]"
+    },
+    {
+      "tag_name": "The Washington Post",
+      "keywords": "[washingtonpost.com]"
+    },
+    {
+      "tag_name": "The Washington Times",
+      "keywords": "[washingtontimes.com]"
+    },
+    {
+      "tag_name": "The Week",
+      "keywords": "[theweek.co.uk]"
+    },
+    {
+      "tag_name": "The Yorkshine Post",
+      "keywords": "[yorkshirepost.co.uk]"
+    },
+    {
+      "tag_name": "TheFinance",
+      "keywords": "[facebook.com/TheFinance.sg, thefinance.sg, twitter.com/TheFinance_sg]"
+    },
+    {
+      "tag_name": "Thiet Ke Viet Nam",
+      "keywords": "[thietkevietnam.com]"
+    },
+    {
+      "tag_name": "Thoi bao ngan hang",
+      "keywords": "[thoibaonganhang.vn]"
+    },
+    {
+      "tag_name": "Ticino",
+      "keywords": "[ticinonews.ch]"
+    },
+    {
+      "tag_name": "Tiengphong",
+      "keywords": "[khoe360.tienphong.vn]"
+    },
+    {
+      "tag_name": "Tienphong",
+      "keywords": "[tienphong.vn]"
+    },
+    {
+      "tag_name": "Time",
+      "keywords": "[facebook.com/time, time.com, twitter.com/time]"
+    },
+    {
+      "tag_name": "TimeBase",
+      "keywords": "[timebase.com.au]"
+    },
+    {
+      "tag_name": "Tin Tức Nóng",
+      "keywords": "[tintuc.vn]"
+    },
+    {
+      "tag_name": "Tioggi",
+      "keywords": "[tioggi.ch]"
+    },
+    {
+      "tag_name": "Tnooz",
+      "keywords": "[tnooz.com]"
+    },
+    {
+      "tag_name": "Today Myanmar",
+      "keywords": "[today-myanmar.com]"
+    },
+    {
+      "tag_name": "Today Online",
+      "keywords": "[facebook.com/todayonline, instagram.com/todayonline, todayonline.com, twitter.com/TODAYonline, youtube.com/user/TODAYdigital]"
+    },
+    {
+      "tag_name": "Tokyo-Sports",
+      "keywords": "[tokyo-sports.co.jp]"
+    },
+    {
+      "tag_name": "Top Online",
+      "keywords": "[toponline.ch]"
+    },
+    {
+      "tag_name": "TopGear",
+      "keywords": "[TopGearMagIndia, facebook.com/TopGearIndia, topgear.com, twitter.com/TopGearIndia]"
+    },
+    {
+      "tag_name": "Townsville Bulletin",
+      "keywords": "[townsvillebulletin.com.au]"
+    },
+    {
+      "tag_name": "Tr Emeritus",
+      "keywords": "[tremeritus.com]"
+    },
+    {
+      "tag_name": "Trade Arabia",
+      "keywords": "[tradearabia.com]"
+    },
+    {
+      "tag_name": "Tradewinds",
+      "keywords": "[facebook.com/stjohnnews, stjohntradewindsnews.com, twitter.com/stjtradewinds]"
+    },
+    {
+      "tag_name": "Travel And Leisure",
+      "keywords": "[travelandleisureasia.com]"
+    },
+    {
+      "tag_name": "Travel Daily",
+      "keywords": "[facebook.com/etraveldaily, traveldaily.com.au, traveldailychina.com, traveldailymedia.com, twitter.com/TDmediaindia]"
+    },
+    {
+      "tag_name": "Travel Industry Wire",
+      "keywords": "[travelindustrywire.com]"
+    },
+    {
+      "tag_name": "Travel News",
+      "keywords": "[travelnews.network.com.tw]"
+    },
+    {
+      "tag_name": "Travel Pulse",
+      "keywords": "[travelpulse.com]"
+    },
+    {
+      "tag_name": "Travel Weekly UK",
+      "keywords": "[travelweekly.co.uk]"
+    },
+    {
+      "tag_name": "Travel.News (新华旅游)",
+      "keywords": "[travel.news.cn]"
+    },
+    {
+      "tag_name": "Traveller",
+      "keywords": "[traveller.com.au]"
+    },
+    {
+      "tag_name": "Tribun Gorontalo",
+      "keywords": "[gorontalo.tribunnews.com]"
+    },
+    {
+      "tag_name": "Tribun Jabar",
+      "keywords": "[jabar.tribunnews.com]"
+    },
+    {
+      "tag_name": "Tribun Jakarta",
+      "keywords": "[jakarta.tribunnews.com]"
+    },
+    {
+      "tag_name": "Tribun Jambi",
+      "keywords": "[jambi.tribunnews.com]"
+    },
+    {
+      "tag_name": "Tribun Jateng",
+      "keywords": "[jateng.tribunnews.com]"
+    },
+    {
+      "tag_name": "Tribun Kalteng",
+      "keywords": "[kalteng.tribunnews.com]"
+    },
+    {
+      "tag_name": "Tribun Manado",
+      "keywords": "[manado.tribunnews.com]"
+    },
+    {
+      "tag_name": "Tribun Medan",
+      "keywords": "[medan.tribunnews.com]"
+    },
+    {
+      "tag_name": "Tribun News",
+      "keywords": "[facebook.com/tribunnews, instagram.com/tribunnews, tribunnews.com, twitter.com/tribunnews]"
+    },
+    {
+      "tag_name": "Tribun Pekanbaru",
+      "keywords": "[pekanbaru.tribunnews.com]"
+    },
+    {
+      "tag_name": "Tribun Pontianak",
+      "keywords": "[pontianak.tribunnews.com]"
+    },
+    {
+      "tag_name": "Tribun Timur",
+      "keywords": "[makassar.tribunnews.com]"
+    },
+    {
+      "tag_name": "Tribune de Geneve",
+      "keywords": "[tdg.ch]"
+    },
+    {
+      "tag_name": "Tuoi Tre",
+      "keywords": "[tuoitre.vn, tuoitrenews.vn]"
+    },
+    {
+      "tag_name": "UAE Government News",
+      "keywords": "[app.contify.com]"
+    },
+    {
+      "tag_name": "UDN",
+      "keywords": "[facebook.com/myudn, udn.com]"
+    },
+    {
+      "tag_name": "UWeekly",
+      "keywords": "[uweekly.sg]"
+    },
+    {
+      "tag_name": "United Daily News",
+      "keywords": "[facebook.com/myudn, udn.com]"
+    },
+    {
+      "tag_name": "VBN",
+      "keywords": "[vietnambreakingnews.com]"
+    },
+    {
+      "tag_name": "VN",
+      "keywords": "[vn.ru]"
+    },
+    {
+      "tag_name": "VN EXPRESS",
+      "keywords": "[vnexpress.net]"
+    },
+    {
+      "tag_name": "VNReview",
+      "keywords": "[vnreview.vn]"
+    },
+    {
+      "tag_name": "VNmedia",
+      "keywords": "[vnmedia.vn]"
+    },
+    {
+      "tag_name": "VOA News",
+      "keywords": "[voanews.com]"
+    },
+    {
+      "tag_name": "VOV Online",
+      "keywords": "[facebook.com/vovonline, twitter.com/VOV_Online, vov.vn]"
+    },
+    {
+      "tag_name": "VTC News",
+      "keywords": "[vtc.vn]"
+    },
+    {
+      "tag_name": "Value Invest Asia",
+      "keywords": "[valueinvestasia.com]"
+    },
+    {
+      "tag_name": "Vedomosti",
+      "keywords": "[vedomosti.ru]"
+    },
+    {
+      "tag_name": "Vesti",
+      "keywords": "[vesti.ru]"
+    },
+    {
+      "tag_name": "Vice",
+      "keywords": "[vice.com]"
+    },
+    {
+      "tag_name": "VietBao",
+      "keywords": "[vietbao.vn]"
+    },
+    {
+      "tag_name": "Vietnam Net",
+      "keywords": "[facebook.com/vietnamnet.vn, vietnamnet.vn]"
+    },
+    {
+      "tag_name": "Vietnam News",
+      "keywords": "[vietnamnews.com, vietnamnews.vn]"
+    },
+    {
+      "tag_name": "Vietnam Tribune",
+      "keywords": "[vietnamtribune.com]"
+    },
+    {
+      "tag_name": "Vietnimes Times Online",
+      "keywords": "[vietnamtimesonline.com]"
+    },
+    {
+      "tag_name": "Virgula",
+      "keywords": "[uol.com.br]"
+    },
+    {
+      "tag_name": "Viva",
+      "keywords": "[vivanews.com]"
+    },
+    {
+      "tag_name": "Vladnews",
+      "keywords": "[vladnews.ru]"
+    },
+    {
+      "tag_name": "Volksblatt",
+      "keywords": "[volksblatt.li]"
+    },
+    {
+      "tag_name": "Vox",
+      "keywords": "[vox.com]"
+    },
+    {
+      "tag_name": "Vulcan Post",
+      "keywords": "[vulcanpost.my]"
+    },
+    {
+      "tag_name": "WA Today",
+      "keywords": "[watoday.com.au]"
+    },
+    {
+      "tag_name": "WIKITREE",
+      "keywords": "[wikitree.co.kr]"
+    },
+    {
+      "tag_name": "WIRED",
+      "keywords": "[facebook.com/wired, instagram.com/wired, twitter.com/wired, wired.co.uk, wired.com, youtube.com/user/wired]"
+    },
+    {
+      "tag_name": "Wanbao",
+      "keywords": "[facebook.com/lianhewanbao, instagram.com/lianhewanbao/, twitter.com/lianheWanbao, wanbao.com.sg]"
+    },
+    {
+      "tag_name": "Wareable",
+      "keywords": "[wareable.com]"
+    },
+    {
+      "tag_name": "Warta Ekonomi",
+      "keywords": "[wartaekonomi.co.id]"
+    },
+    {
+      "tag_name": "Warta Kota",
+      "keywords": "[wartakota.tribunnews.com]"
+    },
+    {
+      "tag_name": "Waspada Online",
+      "keywords": "[waspada.co.id]"
+    },
+    {
+      "tag_name": "Weekender",
+      "keywords": "[weekender.com.sg]"
+    },
+    {
+      "tag_name": "Welt N24",
+      "keywords": "[welt.de]"
+    },
+    {
+      "tag_name": "What Phone",
+      "keywords": "[whatphone.net]"
+    },
+    {
+      "tag_name": "WikiCFP",
+      "keywords": "[wikicfp.com]"
+    },
+    {
+      "tag_name": "World News",
+      "keywords": "[truebreakingnews.com]"
+    },
+    {
+      "tag_name": "World Oil",
+      "keywords": "[worldoil.com]"
+    },
+    {
+      "tag_name": "XFastest Media",
+      "keywords": "[xfastest.com]"
+    },
+    {
+      "tag_name": "Xay Dung",
+      "keywords": "[baoxaydung.com.vn]"
+    },
+    {
+      "tag_name": "Xin MSN",
+      "keywords": "[sites.xinmsnent.mediacorp.sg]"
+    },
+    {
+      "tag_name": "Xinmin",
+      "keywords": "[xinmin.cn]"
+    },
+    {
+      "tag_name": "Xinmin Weekly",
+      "keywords": "[xinminweekly.com.cn]"
+    },
+    {
+      "tag_name": "YSSN",
+      "keywords": "[yoursinglesourcefornews.com]"
+    },
+    {
+      "tag_name": "Yabloko",
+      "keywords": "[yabloko.ru]"
+    },
+    {
+      "tag_name": "Yahoo Finance",
+      "keywords": "[facebook.com/yahoofinance, finance.yahoo.com, sg.finance.yahoo.com, twitter.com/YahooFinance]"
+    },
+    {
+      "tag_name": "Yahoo! Singapore",
+      "keywords": "[sg.yahoo.com]"
+    },
+    {
+      "tag_name": "Yan News",
+      "keywords": "[yan.vn]"
+    },
+    {
+      "tag_name": "Yangon Media",
+      "keywords": "[yangonmedia.com]"
+    },
+    {
+      "tag_name": "Yibada",
+      "keywords": "[yibada.com]"
+    },
+    {
+      "tag_name": "Yonhap",
+      "keywords": "[yonhapnews.co.kr]"
+    },
+    {
+      "tag_name": "Youku",
+      "keywords": "[youku.com]"
+    },
+    {
+      "tag_name": "Young Parents",
+      "keywords": "[youngparents.com.sg]"
+    },
+    {
+      "tag_name": "Your Story",
+      "keywords": "[yourstory.com]"
+    },
+    {
+      "tag_name": "Yoyarlay.com",
+      "keywords": "[yoyarlay.com]"
+    },
+    {
+      "tag_name": "Z NEWS",
+      "keywords": "[zeenews.india.com]"
+    },
+    {
+      "tag_name": "ZDNet",
+      "keywords": "[zdnet.com]"
+    },
+    {
+      "tag_name": "ZEIT Online",
+      "keywords": "[zeit.de]"
+    },
+    {
+      "tag_name": "ZR Press",
+      "keywords": "[zrpress.ru]"
+    },
+    {
+      "tag_name": "Zagame",
+      "keywords": "[zag.com.au]"
+    },
+    {
+      "tag_name": "Zaobao",
+      "keywords": "[facebook.com/LianheZaobao, twitter.com/zbcom, zaobao.com, zaobao.com.sg]"
+    },
+    {
+      "tag_name": "Zbcomma",
+      "keywords": "[facebook.com/zbcomma, zbcomma.sg]"
+    },
+    {
+      "tag_name": "Zeitung",
+      "keywords": "[aargauerzeitung.ch, basellandschaftlichezeitung.ch, limmattalerzeitung.ch]"
+    },
+    {
+      "tag_name": "Zero to Hundred",
+      "keywords": "[facebook.com/zerotohundredcom, zerotohundred.com]"
+    },
+    {
+      "tag_name": "Zing vn",
+      "keywords": "[zing.vn]"
+    },
+    {
+      "tag_name": "Zonebourse",
+      "keywords": "[zonebourse.com]"
+    },
+    {
+      "tag_name": "Zonedara",
+      "keywords": "[zonedara.com]"
+    },
+    {
+      "tag_name": "Zürcher Unterländer",
+      "keywords": "[zuonline.ch]"
+    },
+    {
+      "tag_name": "Zürichsee Zeitung",
+      "keywords": "[zsz.ch]"
+    },
+    {
+      "tag_name": "asiaSpa India",
+      "keywords": "[asiaspaindia.com]"
+    },
+    {
+      "tag_name": "asianetindia.com",
+      "keywords": "[asianetindia.com]"
+    },
+    {
+      "tag_name": "autoX",
+      "keywords": "[autox.in]"
+    },
+    {
+      "tag_name": "carandbike",
+      "keywords": "[auto.ndtv.com]"
+    },
+    {
+      "tag_name": "defenseworld",
+      "keywords": "[defenseworld.net]"
+    },
+    {
+      "tag_name": "e27",
+      "keywords": "[e27.co, facebook.com/e27, twitter.com/e27co, youtube.com/user/e27co]"
+    },
+    {
+      "tag_name": "eGov",
+      "keywords": "[egov.eletsonline.com]"
+    },
+    {
+      "tag_name": "eTN",
+      "keywords": "[eturbonews.com]"
+    },
+    {
+      "tag_name": "eWallstreeter",
+      "keywords": "[ewallstreeter.com]"
+    },
+    {
+      "tag_name": "hospitalitynet",
+      "keywords": "[facebook.com/HospitalityNet, hospitalitynet.org, twitter.com/HospitalityNet]"
+    },
+    {
+      "tag_name": "iTWire",
+      "keywords": "[itwire.com]"
+    },
+    {
+      "tag_name": "kwongwah",
+      "keywords": "[kwongwah.com.my]"
+    },
+    {
+      "tag_name": "lenta ru",
+      "keywords": "[lenta.ru]"
+    },
+    {
+      "tag_name": "moneycontrol",
+      "keywords": "[facebook.com/moneycontrolFB, moneycontrol.com, twitter.com/moneycontrolcom]"
+    },
+    {
+      "tag_name": "mxphone",
+      "keywords": "[mxphone.net]"
+    },
+    {
+      "tag_name": "news.com.au",
+      "keywords": "[facebook.com/news.com.au, instagram.com/newscomauHQ, news.com.au, twitter.com/newscomauHQ]"
+    },
+    {
+      "tag_name": "newswit",
+      "keywords": "[facebook.com/newswit, newswit.com]"
+    },
+    {
+      "tag_name": "nine.com.au",
+      "keywords": "[facebook.com/Ninecomau, instagram.com/ninecomau, nine.com.au, twitter.com/Ninecomau, youtube.com/channel/UCEZzZLnK1Gv4H3l_YhVbV8g]"
+    },
+    {
+      "tag_name": "ot Oltnertagblatt",
+      "keywords": "[oltnertagblatt.ch]"
+    },
+    {
+      "tag_name": "pedestrian.tv",
+      "keywords": "[pedestrian.tv]"
+    },
+    {
+      "tag_name": "slrLounge",
+      "keywords": "[slrlounge.com]"
+    },
+    {
+      "tag_name": "techcircle",
+      "keywords": "[techcircle.vccircle.com]"
+    },
+    {
+      "tag_name": "techradar",
+      "keywords": "[techradar.com, twitter.com/techradar]"
+    },
+    {
+      "tag_name": "techradar.india",
+      "keywords": "[facebook.com/TechRadarIndia, in.techradar.com, twitter.com/TechRadarIndia]"
+    },
+    {
+      "tag_name": "techtree",
+      "keywords": "[techtree.com]"
+    },
+    {
+      "tag_name": "xinhuanet.com",
+      "keywords": "[facebook.com/XinhuaNewsAgency, twitter.com/XHNews, xinhuanet.com, youtube.com/user/ChinaViewTV]"
+    },
+    {
+      "tag_name": "zelenograd",
+      "keywords": "[zelenograd.ru]"
+    },
+    {
+      "tag_name": "Đầu tư online",
+      "keywords": "[baodautu.vn]"
+    }
+  ]
+}
