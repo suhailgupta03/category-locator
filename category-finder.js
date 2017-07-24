@@ -38,7 +38,7 @@ module.exports = class CategoryFinder {
             // Check which edges enter and leave node 'item'
             return this.wcgraph.getNodeEdges(item);
         } else {
-            return new Error('Node does not exist');
+            return `${item} (Node) does not exist`;
         }
     }
 
