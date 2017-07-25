@@ -1,7 +1,7 @@
 const CGraph = require('./ds/cgraph');
 let obj = require('./dump.json');
 
-let cgraph = new CGraph(false); // Makes an undirected graph
+let cgraph = new CGraph(true); // Makes a directed graph
 
 for (let info of obj.data) {
     let category = info.tag_name;
@@ -11,6 +11,10 @@ for (let info of obj.data) {
         .split(',');
     for (let word of keywords) {
         cgraph.setEdge(word, category);
+        let lindex = word.lastIndexOf('/');
+        if((lindex != -1) && (word.length-1 != lindex)) {
+            cgraph.setEdge(word.substring(lindex+1, word.length), category);
+        }
     }
 }
 
@@ -36,7 +40,7 @@ module.exports = class CategoryFinder {
        
         if (this.wcgraph.hasNode(item)) {
             // Check which edges enter and leave node 'item'
-            return this.wcgraph.getNodeEdges(item);
+            return this.wcgraph.getOutEdges(item);
         } else {
             return `'${item}' (Node) does not exist`;
         }
