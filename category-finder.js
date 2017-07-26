@@ -9,8 +9,9 @@ for (let info of obj.data) {
         .replace(/^\[/, '')
         .replace(/\]$/, '')
         .split(',');
+
     for (let word of keywords) {
-        cgraph.setEdge(word, category);
+        cgraph.setEdge(word.trim(), category);
         let lindex = word.lastIndexOf('/');
         if((lindex != -1) && (word.length-1 != lindex)) {
             cgraph.setEdge(word.substring(lindex+1, word.length), category);
